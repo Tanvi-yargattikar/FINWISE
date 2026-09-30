@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}FinWise — Smarter money decisions{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="hero-copy">
+    <div class="eyebrow">PERSONAL FINANCE, SIMPLIFIED</div>
+    <h1>Make your money work<br><span>with a plan.</span></h1>
+    <p>Tell FinWise your income, expenses and risk preference. Get a simple allocation plan and educational investment ideas in one place.</p>
+    <div class="actions">
+      {% if logged_in %}
+        <a class="btn" href="{{ url_for('questionnaire') }}">Create my plan →</a>
+        <a class="btn btn-ghost" href="{{ url_for('dashboard') }}">Open dashboard</a>
+      {% else %}
+        <a class="btn" href="{{ url_for('signup') }}">Get started →</a>
+        <a class="btn btn-ghost" href="{{ url_for('signin') }}">I already have an account</a>
+      {% endif %}
+    </div>
+  </div>
+  <div class="hero-card">
+    <div class="mini-label">FINANCIAL SNAPSHOT</div>
+    <div class="big-number">30%</div>
+    <p>example allocation toward investing from available surplus</p>
+    <div class="bars"><i style="width:50%"></i><i style="width:30%"></i><i style="width:20%"></i></div>
+    <div class="legend"><span>Emergency</span><span>Investment</span><span>Savings</span></div>
+  </div>
+</section>
+<section class="feature-grid">
+  <article><div class="icon">01</div><h3>Personalized plan</h3><p>Turn income and expenses into a clear monthly allocation.</p></article>
+  <article><div class="icon">02</div><h3>Risk-aware ideas</h3><p>Filter educational stock ideas by your risk preference and budget.</p></article>
+  <article><div class="icon">03</div><h3>Stay informed</h3><p>Browse finance and Indian-market news from one dashboard.</p></article>
+</section>
+<section class="disclaimer">FinWise is an educational project. Stock suggestions are not financial advice and should not be treated as guaranteed returns.</section>
+{% endblock %}

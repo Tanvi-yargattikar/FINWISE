@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Create account — FinWise{% endblock %}
+{% block content %}
+<section class="auth-card">
+<h1>Create your account</h1><p>Save your financial plans and access them anytime.</p>
+<form method="post" class="form">
+<label>Username<input name="username" required minlength="3"></label>
+<label>Email<input type="email" name="email" required></label>
+<label>Password<input type="password" name="password" required minlength="6"></label>
+<label>Confirm password<input type="password" name="confirm_password" required minlength="6"></label>
+<button class="btn" type="submit">Create account</button>
+</form>
+<p class="muted">Already registered? <a href="{{ url_for('signin') }}">Sign in</a></p>
+</section>
+{% endblock %}

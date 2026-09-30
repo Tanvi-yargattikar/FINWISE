@@ -1,0 +1,112 @@
+/* que.css */
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    line-height: 1.6;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height of the viewport */
+}
+
+/* Container styling */
+.container {
+    max-width: 600px;
+    width: 100%;
+    background-color: #222; /* Dark background for the container */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 255, 0, 0.5); /* Green box shadow */
+    text-align: center; /* Center text inside the container */
+}
+
+/* Heading styling */
+h1 {
+    font-size: 24px;
+    color: #fff; /* White text */
+    margin-bottom: 20px;
+}
+
+/* Label styling */
+label {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    display: block;
+    color: #fff; /* White text */
+}
+
+/* Input and select field styling */
+input[type="number"], select {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #444; /* Dark border */
+    border-radius: 4px;
+    font-size: 16px;
+    color: #fff; /* White text inside inputs */
+    background-color: #333; /* Dark background for inputs */
+}
+
+/* Radio button group styling */
+.radio-group {
+    display: flex;
+    align-items: center;
+    margin: 8px 0;
+    justify-content: center; /* Center the radio buttons */
+}
+
+.radio-group input[type="radio"] {
+    margin-right: 10px;
+}
+
+.radio-group label {
+    margin-right: 15px;
+}
+
+/* Hidden elements (for showing/hiding sections) */
+.hidden {
+    display: none;
+}
+
+/* Submit button styling */
+button {
+    background-color: #4ce24a; /* Blue background */
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #3ebd35; /* Darker blue on hover */
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+    h1 {
+        font-size: 20px;
+    }
+    label, input, select {
+        font-size: 14px;
+    }
+}

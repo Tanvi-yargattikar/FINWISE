@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Finwise News</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='finwisenews.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+</head>
+
+<body style="background-color: black;">
+    <nav style="background-color: black;">
+        <div class="main-nav container flex">
+            <div class="nav-links">
+                <ul class="flex">
+                    <li class="hover-link nav-item" style="color: white;">Finance</li>
+                    <li class="hover-link nav-item" style="color: white;">Stock Market</li>
+                    <li class="hover-link nav-item" style="color: white;">Mutual Funds</li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <h1 style="color: rgb(0, 255, 55); text-align: center;
+                    font-family: 'Orbitron', sans-serif; font-size: 40px;
+                    font-weight: bold; background-color: black;
+                    padding: 10px; border-radius: 8px; letter-spacing: 2px;">
+            Finwise
+        </h1>
+
+        <div class="cards-container container flex">
+            {% for article in articles %}
+            <div class="card" onclick="window.open('{{ article.url }}', '_blank')">
+                <div class="card-header">
+                    <img src="{{ article.urlToImage or 'https://via.placeholder.com/400x200' }}" alt="news image">
+                </div>
+                <div class="card-content">
+                    <h3>{{ article.title }}</h3>
+                    <h6 class="news-source">{{ article.source.name }} • {{ article.publishedAt[:10] }}</h6>
+                    <p class="news-desc">{{ article.description }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </main>
+</body>
+
+</html>

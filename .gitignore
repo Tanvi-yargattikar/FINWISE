@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+finwise.db
+.DS_Store

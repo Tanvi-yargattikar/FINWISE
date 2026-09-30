@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+
+<body style="background-color: black;">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#" font>FINWISE</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Stock market</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Mutual funds</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <h1 style="color: rgb(0, 255, 55);">Real time news (<span id="resultCount">Results </span>)</h1>
+        <div class="row content">
+            <div class="card my-4 mx-2" style="width: 18rem;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                        card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="d-flex justify-content-around">
+        <button class=" btn btn-primary" id="pre"> < Previous page </button>
+        <button class=" btn btn-primary" id="next"> Next page > </button>
+    </div>
+    </div>
+    <style>.card:hover {
+        transform: scale(1.05); 
+        transition: transform 0.3s ease-in-out; 
+        box-shadow: 0px 4px 8px rgb(0, 255, 55);
+    }</style>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <script>
+        const fetchNews = async (page) => {
+            console.log("Fetching News...");
+            var url = 'https://newsapi.org/v2/everything?' +
+                'q=finance&' +
+                'sortBy=publishedAt&' +
+                'pageSize=20&' +
+                'page=' + page +
+                'language=en&' +
+                'apiKey=2d9000d9a2c54dc8b11d51bc643727a2';
+
+
+            var req = new Request(url);
+
+            //let a = await fetch(req)
+            //let response = await a.json()
+            //console.log(JSON.stringify(response))
+            let response = {"status":"ok","totalResults":20098,"articles":[{"source":{"id":null,"name":"Biztoc.com"},"author":"thestreet.com","title":"The must-try money hack to boost your net worth while crushing debt","description":"Balancing debt repayment and wealth-building can feel like walking a financial tightrope. Bernadette Joy, a personal finance coach and author of \"CRUSH Your Money Goals,\" joined TheStreet to discuss her approach to growing your net worth while tackling debt h…","url":"https://biztoc.com/x/dfa9f44472d7578f","urlToImage":"https://biztoc.com/cdn/dfa9f44472d7578f_s.webp","publishedAt":"2025-04-02T18:22:55Z","content":"Balancing debt repayment and wealth-building can feel like walking a financial tightrope. Bernadette Joy, a personal finance coach and author of \"CRUSH Your Money Goals,\" joined TheStreet to discuss … [+145 chars]"},{"source":{"id":null,"name":"pymnts.com"},"author":"PYMNTS","title":"Ripple Begins Adding RLUSD Stablecoin to Cross-Border Payment Solution","description":"Ripple has integrated its U.S. dollar-denominated stablecoin, Ripple USD (RLUSD), into its cross-border payment solution, Ripple Payments. RLUSD features built-in global enterprise utility that improves the speed and efficiency of cross-border payments, the p…","url":"https://www.pymnts.com/cryptocurrency/2025/ripple-begins-adding-rlusd-stablecoin-to-cross-border-payment-solution/","urlToImage":"https://www.pymnts.com/wp-content/uploads/2025/04/Ripple-RLUSD-stablecoin.png","publishedAt":"2025-04-02T18:21:20Z","content":"Ripple has integrated its U.S. dollar-denominated stablecoin, Ripple USD (RLUSD), into its cross-border payment solution, Ripple Payments.\r\nRLUSD features built-in global enterprise utility that impr… [+2525 chars]"},{"source":{"id":null,"name":"Cointelegraph"},"author":"Cointelegraph by Alex O’Donnell","title":"Pump.fun launches lending platform to finance memecoin buys","description":"Pump.fun is launching a lending platform to enable users to buy memecoins and non-fungible tokens (NFTs) with borrowed cryptocurrency, the Solana-based memecoin launchpad said. Dubbed Pump.Fi, the onchain lending protocol provides “immediate… financing for [a…","url":"https://cointelegraph.com/news/pump-fun-launches-defi-lender-finance-memecoin-buys","urlToImage":"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-04/0195f770-f7fd-72ad-8ed9-248f7b420555","publishedAt":"2025-04-02T18:19:24Z","content":"Pump.fun is launching a lending platform to enable users to buy memecoins and non-fungible tokens (NFTs) with borrowed cryptocurrency, the Solana-based memecoin launchpad said. \r\nDubbed Pump.Fi, the … [+2115 chars]"},{"source":{"id":null,"name":"NDTV News"},"author":"Press Trust of India","title":"Delhi Government Tightens Pollution Control Measures, Announces EV Push","description":"Chief Minister Rekha Gupta announced in the assembly on Wednesday that the Delhi government will introduce a new policy for issuing Pollution Under Control (PUC) certificates to vehicles from other states, in a bid to tackle air pollution.","url":"https://www.ndtv.com/india-news/delhi-government-tightens-pollution-control-measures-announces-ev-push-8072593","urlToImage":"https://c.ndtvimg.com/2024-12/1hdc7gb8_delhi-air-pollution-twitter-ani_625x300_09_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738","publishedAt":"2025-04-02T18:17:49Z","content":"New Delhi: Chief Minister Rekha Gupta announced in the assembly on Wednesday that the Delhi government will introduce a new policy for issuing Pollution Under Control (PUC) certificates to vehicles f… [+2700 chars]"},{"source":{"id":"breitbart-news","name":"Breitbart News"},"author":"Joshua Klein, Joshua Klein","title":"Expert Warns Iran, Terror Orgs Infiltrating U.S. Universities to Indoctrinate Students & Recruit Members","description":"American universities have become strategic targets for extremist organizations that exploit immigration laws to embed operatives, secure future U.S. citizenship, and cultivate a new generation of pro-terror activists — often under the radar, warns Emirati po…","url":"https://www.breitbart.com/education/2025/04/02/emirati-analyst-warns-iran-others-infiltrating-us-universities-to-indoctrinate-students-build-terror-networks/","urlToImage":"https://media.breitbart.com/media/2025/04/GettyImages-2204789113-640x335.jpg","publishedAt":"2025-04-02T18:12:10Z","content":"American universities have become strategic targets for extremist organizations that exploit immigration laws to embed operatives, secure future U.S. citizenship, and cultivate a new generation of pr… [+3675 chars]"},{"source":{"id":null,"name":"Finextra"},"author":"Editorial Team","title":"Tackling Financial Crime at Speed: How to Adapt to a Faster, More Complex Payments World (Steve Marshall)","description":"Demand for digital payments continues to hit new heights, sparking a wave of payment innovation to m...","url":"https://www.finextra.com/blogposting/28206/tackling-financial-crime-at-speed-how-to-adapt-to-a-faster-more-complex-payments-world","urlToImage":"https://www.finextra.com/finextra-images/member_photos/thumb_159228_steve_marshall_12.jpg","publishedAt":"2025-04-02T18:10:00Z","content":"Demand for digital payments continues to hit new heights, sparking a wave of payment innovation to meet demand.  Meanwhile, the shift to real-time payments means more transactions are settled faster … [+5324 chars]"},{"source":{"id":"newsweek","name":"Newsweek"},"author":"Dan Cody","title":"Social Security 'War Room' Announced To Fight Donald Trump","description":"Amid changes to Social Security, Senate Democrats launch a \"war room\" to fight Trump, Musk and disruptions affecting millions.","url":"https://www.newsweek.com/social-security-donald-trump-war-room-elizabeth-warren-2054113","urlToImage":"https://d.newsweek.com/en/full/2619297/chuck-schumer.jpg","publishedAt":"2025-04-02T18:03:36Z","content":"Democratic senators on Tuesday announced a \"war room\" to fight changes at the Social Security Administration (SSA).\r\nThe initiative, spearheaded by Senators Elizabeth Warren of Massachusetts and Ron … [+4393 chars]"},{"source":{"id":null,"name":"Princeton University"},"author":"Princeton University","title":"Board approves 12 new faculty appointments","description":"The Princeton University Board of Trustees has approved the appointment of 12 faculty members, including three full professors and nine assistant professors.","url":"https://www.princeton.edu/news/2025/04/02/board-approves-12-new-faculty-appointments","urlToImage":"https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2025/03/20240917_CampusBeauty_MR_104_3000x1688.jpg?itok=2sHVW7dn","publishedAt":"2025-04-02T18:02:06Z","content":"The Princeton University Board of Trustees has approved the appointment of 12 faculty members, including three full professors and nine assistant professors.\r\nProfessor\r\nArzoo Osanloo, in anthropolog… [+9750 chars]"},{"source":{"id":null,"name":"Ambcrypto.com"},"author":"Erastus Chami","title":"Trump’s ‘Liberation Day’ tariffs set to shake crypto – Is Bitcoin ready to bounce?","description":"Trump’s “Liberation Day” tariffs spark speculation as Bitcoin eyes a breakout amid rising accumulation.","url":"https://ambcrypto.com/trumps-liberation-day-tariffs-set-to-shake-crypto-is-bitcoin-ready-to-bounce/","urlToImage":"https://ambcrypto.com/wp-content/uploads/2025/04/Erastus-2025-04-02T120956.628-min-1000x600.png","publishedAt":"2025-04-02T18:00:50Z","content":"<ul><li>Eric Trumps endorsement amplified retail confidence as policy uncertainty fuels decentralized asset interest.</li><li>Institutional accumulation and bullish technicals align, suggesting that … [+3766 chars]"},{"source":{"id":null,"name":"WBUR"},"author":null,"title":"'I thought I was doing something good': The scam that took Judith Boivin's life savings","description":"Rebroadcast: Judith Boivin thought she was helping the FBI go after drug traffickers. But in reality she had fallen victim to an elaborate plot to rob her of her retirement savings. She is not alone. How elaborate new scams are trapping well-meaning Americans.","url":"https://www.wbur.org/onpoint/2025/04/02/scam-judith-boivin-life-savings","urlToImage":"https://wordpress.wbur.org/wp-content/uploads/2025/02/Money_Matters_Financial_Goals_25036643582880-1000x750.jpg","publishedAt":"2025-04-02T18:00:46Z","content":"This rebroadcast originally aired on April 2, 2025.\r\nJudith Boivin thought she was helping the FBI go after drug traffickers. But in reality, she had fallen victim to an elaborate plot to rob her of … [+40933 chars]"},{"source":{"id":null,"name":"GlobeNewswire"},"author":"ADVINI","title":"AdVini renforce son Comité Exécutif avec l'arrivée de Vincent PALMIER – Directeur Administratif et Financier et Vincent RAMEAU – Directeur Commercial, Marketing et Innovation","description":"AdVini renforce son Comité Exécutif avec l'arrivée de Vincent PALMIER – Directeur Administratif et Financier et Vincent RAMEAU – Directeur Commercial, Marketing et Innovation","url":"https://www.globenewswire.com/news-release/2025/04/02/3054620/0/fr/AdVini-renforce-son-Comit%C3%A9-Ex%C3%A9cutif-avec-l-arriv%C3%A9e-de-Vincent-PALMIER-Directeur-Administratif-et-Financier-et-Vincent-RAMEAU-Directeur-Commercial-Marketing-et-Innovation.html","urlToImage":"https://ml-eu.globenewswire.com/Resource/Download/d04417b7-24e1-455c-8834-40559e9b0531","publishedAt":"2025-04-02T17:57:00Z","content":"AdVini renforce son Comité Exécutif avec l'arrivée de Vincent PALMIER Directeur Administratif et Financier et Vincent RAMEAU Directeur Commercial, Marketing et Innovation\r\nSaint-Félix de Lodez 2 avri… [+4477 chars]"},{"source":{"id":null,"name":"CoinDesk"},"author":"Camomile Shumba","title":"Galaxy Secures UK Approval for License to Expand Derivatives Trading","description":"The company is on the Financial Conduct Authority's investment firms register which is for firms that are authorized to perform MiFID investment services.","url":"https://www.coindesk.com/policy/2025/04/02/galaxy-secures-uk-approval-for-license-to-expand-derivatives-trading","urlToImage":"https://cdn.sanity.io/images/s3y3vcno/production/bdd851dc83d019a2c0eecb40d7bf141707b85ecc-1440x810.jpg?auto=format","publishedAt":"2025-04-02T17:51:11Z","content":"Galaxy Digital UK, the subsidiary of Mike Novogratz-led digital asset financial services firm's application for a license to execute derivatives trading in the U.K. has been approved by the Financial… [+913 chars]"},{"source":{"id":null,"name":"CNBC"},"author":null,"title":"Tariffs impact: Trucking rush inside U.S. and huge drop in Chinese freight orders signal trouble for economy","description":"President Trump's so-called 'liberation day' will reveal new tariffs on trading partners. Inside the supply chain, importers have been preparing for months.","url":"https://www.cnbc.com/2025/04/02/trump-tariff-liberation-day-trade-data-supply-chain.html","urlToImage":"https://image.cnbcfm.com/api/v1/image/108122202-1743090326677-gettyimages-2206547741-AFP_38678BJ.jpeg?v=1743090430&w=1920&h=1080","publishedAt":"2025-04-02T17:50:23Z","content":"Aerial view of cargo trucks heading towards the U.S. at the Otay Commercial crossing in Tijuana, Baja California state, Mexico on March 27, 2025.\r\nA surge in freight trucking activity, from the Texas… [+7333 chars]"},{"source":{"id":null,"name":"Economictimes.com"},"author":null,"title":"Gold: Recent world history has been fraught with enough risk to make it a very shiny hedge","description":"Gold prices surged by 37% in the last fiscal year, and are now 18 times higher than in 2000. This significant rise reflects gold's status as a safe haven amid global uncertainties, including economic crises, wars, and geopolitical tensions, reinforcing its va…","url":"https://m.economictimes.com/opinion/et-commentary/gold-recent-world-history-has-been-fraught-with-enough-risk-to-make-it-a-very-shiny-hedge/articleshow/119915163.cms","urlToImage":"https://img.etimg.com/thumb/msid-119915343,width-1200,height-630,imgsize-47262,overlay-economictimes/articleshow.jpg","publishedAt":"2025-04-02T17:47:50Z","content":"Gold prices went up by 37% in the last FY. They're now 18x than at the turn of the century. CPI today is 4x its level in 2000. What does the runaway price of gold mean - apart from crushing the finan… [+5536 chars]"},{"source":{"id":null,"name":"AutoExpress"},"author":"Tom Jervis","title":"Insurance firms accused of secretly “taxing the poor” amidst heat from car finance scandal","description":"Both car insurance and finance firms are under fire for covert practices that see consumers unknowingly paying more","url":"https://www.autoexpress.co.uk/news/366447/insurance-firms-accused-secretly-taxing-poor-amidst-heat-car-finance-scandal","urlToImage":"https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1733828378/autoexpress/2024/12/Car insurance documents.jpg","publishedAt":"2025-04-02T17:42:14Z","content":"The FCA launched its investigation into such practices in October last year as part of a wider government effort to address spiralling insurance costs. An update is expected to be provided in June, r… [+1675 chars]"},{"source":{"id":null,"name":"Commercial Observer"},"author":"Bpascus","title":"Prime Finance Provides $67M Refi for Historic San Francisco Financial District Hotel","description":"The InterGroup Corporation and its subsidiary Portsmouth Square have secured $67 million to refinance the Hilton San Francisco Financial District, a 544-room hotel that had defaulted on its $97 million mortgage last year.  Prime Finance provided the loan, whi…","url":"http://commercialobserver.com/2025/04/prime-finance-67m-refi-historic-san-francisco-financial-district-hotel/","urlToImage":"https://commercialobserver.com/wp-content/uploads/sites/3/2025/04/Hilton-SF-Financial-District-GettyImages-1298814351-WEB.jpg?quality=80&crop=0px%2C1066px%2C2000px%2C1049px&resize=1200%2C630&strip","publishedAt":"2025-04-02T17:40:44Z","content":"The InterGroup Corporation and its subsidiary Portsmouth Square have secured $67 million to refinance the Hilton San Francisco Financial District, a 544-room hotel that had defaulted on its $97 milli… [+2097 chars]"},{"source":{"id":null,"name":"Yahoo Entertainment"},"author":null,"title":"招聘啟事｜Now新聞台誠聘以下職位","description":"【Now新聞台】Now新聞台現誠聘以下職位：1. Senior Reporter2. Anchor / Reporter3. Online News Editor4. Finance Reporter/Anchor(now Business News Channel)5. Finance Reporter/Anchor – Features (樓市每日睇) (now Business News Channel)6. Senior Finance Reporter/Anchor (now Business News…","url":"https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c32919bc-5fda-4d0e-a8ac-867e71cb377c","urlToImage":null,"publishedAt":"2025-04-02T17:40:00Z","content":"If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"},{"source":{"id":null,"name":"Biztoc.com"},"author":"entrepreneur.com","title":"AI-Driven Finance: Powering Proactive Decisions","description":"Join us for a free webinar and find out how finance professionals are leaning into AI to unlock smarter, faster, and better strategies.","url":"https://biztoc.com/x/22438c7e5b197f31","urlToImage":"https://biztoc.com/cdn/22438c7e5b197f31_s.webp","publishedAt":"2025-04-02T17:38:37Z","content":"Join us for a free webinar and find out how finance professionals are leaning into AI to unlock smarter, faster, and better strategies.\r\nThis story appeared on entrepreneur.com, 2025-04-02 16:35:00."},{"source":{"id":"the-irish-times","name":"The Irish Times"},"author":"Joe Brennan","title":"European stocks decline ahead of Trump’s tariff announcement","description":"Iseq All-Share index manages to end session 0.2 slightly higher","url":"https://www.irishtimes.com/business/2025/04/02/european-stocks-decline-ahead-of-trumps-tariff-announcement/","urlToImage":"https://www.irishtimes.com/resizer/v2/UWNDWORA7BCXLOEVSUOZY6MIHI.jpg?smart=true&auth=140700bf61ddb634c3d7a7d18dfc34ab5b02e5f27fefc780df8d2ff8426514ff&width=1200&height=630","publishedAt":"2025-04-02T17:35:40Z","content":"European shares declined on Wednesday, dragged down in particular by healthcare stocks, as investors awaited tariff plans from US President Donald Trump that some fear could slow global growth and bo… [+4060 chars]"}]}
+                console.log(response)
+            let str = ""
+            for (let item of response.articles){
+            str = str + `<div class="card" style="width: 18rem;">
+                <img src = "${item.urlTOImage}" class="card-img-top" alt = "...">
+                <div class="card-body">
+                    <h5 class="card-title">${item.title}</h5>
+                    <p class="card-text">${item.description}</p>
+                    <a href="${item.url}" target="_blank" class="btn btn-primary">Go somewhere</a>
+                </div>
+                </div >`
+            }
+            document.querySelector(".content").innerHTML=str
+        }
+        fetchNews(1)
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,301 @@
+Company,Current Price,Volatility,Risk Level
+20MICRONS,"Ticker
+20MICRONS.NS    190.01
+Name: 2025-04-07 00:00:00, dtype: float64",0.03157,High
+21STCENMGM,"Ticker
+21STCENMGM.NS    70.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.01733,Medium
+360ONE,"Ticker
+360ONE.NS    886.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.02766,Medium
+3IINFOLTD,"Ticker
+3IINFOLTD.NS    20.78
+Name: 2025-04-07 00:00:00, dtype: float64",0.03428,High
+3MINDIA,"Ticker
+3MINDIA.NS    27429.7
+Name: 2025-04-07 00:00:00, dtype: float64",0.01752,Medium
+3PLAND,"Ticker
+3PLAND.NS    39.5
+Name: 2025-04-07 00:00:00, dtype: float64",0.04153,High
+5PAISA,"Ticker
+5PAISA.NS    350.4
+Name: 2025-04-07 00:00:00, dtype: float64",0.02635,Medium
+63MOONS,"Ticker
+63MOONS.NS    731.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.04047,High
+A2ZINFRA,"Ticker
+A2ZINFRA.NS    12.88
+Name: 2025-04-07 00:00:00, dtype: float64",0.04041,High
+AAATECH,"Ticker
+AAATECH.NS    75.39
+Name: 2025-04-07 00:00:00, dtype: float64",0.02961,Medium
+AADHARHFC,"Ticker
+AADHARHFC.NS    430.2
+Name: 2025-04-07 00:00:00, dtype: float64",0.02318,Medium
+AAKASH,"Ticker
+AAKASH.NS    7.72
+Name: 2025-04-07 00:00:00, dtype: float64",0.02833,Medium
+AAREYDRUGS,"Ticker
+AAREYDRUGS.NS    45.28
+Name: 2025-04-07 00:00:00, dtype: float64",0.03168,High
+AARON,"Ticker
+AARON.NS    324.4
+Name: 2025-04-07 00:00:00, dtype: float64",0.03353,High
+AARTECH,"Ticker
+AARTECH.NS    52.9
+Name: 2025-04-07 00:00:00, dtype: float64",0.03071,High
+AARTIDRUGS,"Ticker
+AARTIDRUGS.NS    321.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02327,Medium
+AARTIIND,"Ticker
+AARTIIND.NS    355.1
+Name: 2025-04-07 00:00:00, dtype: float64",0.02362,Medium
+AARTIPHARM,"Ticker
+AARTIPHARM.NS    649.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.03125,High
+AARTISURF,"Ticker
+AARTISURF.NS    405.5
+Name: 2025-04-07 00:00:00, dtype: float64",0.02377,Medium
+AARVEEDEN,"Ticker
+AARVEEDEN.NS    134.3
+Name: 2025-04-07 00:00:00, dtype: float64",0.0215,Medium
+AARVI,"Ticker
+AARVI.NS    101.52
+Name: 2025-04-07 00:00:00, dtype: float64",0.02322,Medium
+AAVAS,"Ticker
+AAVAS.NS    1978.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.01199,Low
+ABAN,"Ticker
+ABAN.NS    37.61
+Name: 2025-04-07 00:00:00, dtype: float64",0.02737,Medium
+ABB,"Ticker
+ABB.NS    4963.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.02471,Medium
+ABBOTINDIA,"Ticker
+ABBOTINDIA.NS    28965.7
+Name: 2025-04-07 00:00:00, dtype: float64",0.01587,Medium
+ABCAPITAL,"Ticker
+ABCAPITAL.NS    179.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.02109,Medium
+ABDL,"Ticker
+ABDL.NS    306.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.0254,Medium
+ABFRL,"Ticker
+ABFRL.NS    245.2
+Name: 2025-04-07 00:00:00, dtype: float64",0.01987,Medium
+ABIN-RE1,"Ticker
+ABIN-RE1.NS    41.2
+Name: 2025-04-07 00:00:00, dtype: float64",,High
+ABINFRA,"Ticker
+ABINFRA.NS    82.47
+Name: 2025-04-07 00:00:00, dtype: float64",0.03245,High
+ABMINTLLTD,"Ticker
+ABMINTLLTD.NS    45.5
+Name: 2025-04-07 00:00:00, dtype: float64",0.04154,High
+ABREL,"Ticker
+ABREL.NS    1802.8
+Name: 2025-04-07 00:00:00, dtype: float64",0.03163,High
+ABSLAMC,"Ticker
+ABSLAMC.NS    633.8
+Name: 2025-04-07 00:00:00, dtype: float64",0.02582,Medium
+ACC,"Ticker
+ACC.NS    1929.1
+Name: 2025-04-07 00:00:00, dtype: float64",0.01604,Medium
+ACCELYA,"Ticker
+ACCELYA.NS    1236.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.01688,Medium
+ACCURACY,"Ticker
+ACCURACY.NS    8.01
+Name: 2025-04-07 00:00:00, dtype: float64",0.03355,High
+ACE,"Ticker
+ACE.NS    1187.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02968,Medium
+ACEINTEG,"Ticker
+ACEINTEG.NS    24.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.03863,High
+ACI,"Ticker
+ACI.NS    529.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02851,Medium
+ACL,"Ticker
+ACL.NS    53.11
+Name: 2025-04-07 00:00:00, dtype: float64",0.02571,Medium
+ACLGATI,"Ticker
+ACLGATI.NS    55.09
+Name: 2025-04-07 00:00:00, dtype: float64",0.02695,Medium
+ACMESOLAR,"Ticker
+ACMESOLAR.NS    191.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.04008,High
+ADANIENSOL,"Ticker
+ADANIENSOL.NS    815.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.0413,High
+ADANIENT,"Ticker
+ADANIENT.NS    2212.7
+Name: 2025-04-07 00:00:00, dtype: float64",0.0317,High
+ADANIGREEN,"Ticker
+ADANIGREEN.NS    873.3
+Name: 2025-04-07 00:00:00, dtype: float64",0.04175,High
+ADANIPORTS,"Ticker
+ADANIPORTS.NS    1110.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.02367,Medium
+ADANIPOWER,"Ticker
+ADANIPOWER.NS    509.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.03397,High
+ADFFOODS,"Ticker
+ADFFOODS.NS    215.22
+Name: 2025-04-07 00:00:00, dtype: float64",0.03353,High
+ADL,"Ticker
+ADL.NS    77.22
+Name: 2025-04-07 00:00:00, dtype: float64",0.02865,Medium
+ADORWELD,"Ticker
+ADORWELD.NS    854.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.02254,Medium
+ADROITINFO,"Ticker
+ADROITINFO.NS    11.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.04261,High
+ADSL,"Ticker
+ADSL.NS    173.88
+Name: 2025-04-07 00:00:00, dtype: float64",0.03745,High
+ADVANIHOTR,"Ticker
+ADVANIHOTR.NS    57.47
+Name: 2025-04-07 00:00:00, dtype: float64",0.02339,Medium
+ADVENZYMES,"Ticker
+ADVENZYMES.NS    270.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02617,Medium
+AEGISLOG,"Ticker
+AEGISLOG.NS    794.5
+Name: 2025-04-07 00:00:00, dtype: float64",0.0405,High
+AEROFLEX,"Ticker
+AEROFLEX.NS    166.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.04148,High
+AETHER,"Ticker
+AETHER.NS    807.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02238,Medium
+AFCONS,"Ticker
+AFCONS.NS    426.4
+Name: 2025-04-07 00:00:00, dtype: float64",0.02918,Medium
+AFFLE,"Ticker
+AFFLE.NS    1447.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.02455,Medium
+AFFORDABLE,"Ticker
+AFFORDABLE.NS    382.1
+Name: 2025-04-07 00:00:00, dtype: float64",0.02699,Medium
+AFIL,"Ticker
+AFIL.NS    74.91
+Name: 2025-04-07 00:00:00, dtype: float64",0.03813,High
+AFSL,"Ticker
+AFSL.NS    180.0
+Name: 2025-04-07 00:00:00, dtype: float64",0.0278,Medium
+AGARIND,"Ticker
+AGARIND.NS    918.9
+Name: 2025-04-07 00:00:00, dtype: float64",0.02881,Medium
+AGARWALEYE,"Ticker
+AGARWALEYE.NS    417.3
+Name: 2025-04-07 00:00:00, dtype: float64",0.02298,Medium
+AGI,"Ticker
+AGI.NS    734.1
+Name: 2025-04-07 00:00:00, dtype: float64",0.03855,High
+AGIIL,"Ticker
+AGIIL.NS    702.9
+Name: 2025-04-07 00:00:00, dtype: float64",0.02789,Medium
+AGRITECH,"Ticker
+AGRITECH.NS    130.83
+Name: 2025-04-07 00:00:00, dtype: float64",0.03477,High
+AGROPHOS,"Ticker
+AGROPHOS.NS    28.94
+Name: 2025-04-07 00:00:00, dtype: float64",0.03389,High
+AGSTRA,"Ticker
+AGSTRA.NS    6.56
+Name: 2025-04-07 00:00:00, dtype: float64",0.03262,High
+AHLADA,"Ticker
+AHLADA.NS    56.1
+Name: 2025-04-07 00:00:00, dtype: float64",0.03408,High
+AHLEAST,"Ticker
+AHLEAST.NS    131.88
+Name: 2025-04-07 00:00:00, dtype: float64",0.027,Medium
+AHLUCONT,"Ticker
+AHLUCONT.NS    798.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02317,Medium
+AIAENG,"Ticker
+AIAENG.NS    3091.3
+Name: 2025-04-07 00:00:00, dtype: float64",0.01358,Low
+AIIL,"Ticker
+AIIL.NS    1513.4
+Name: 2025-04-07 00:00:00, dtype: float64",0.03358,High
+AIRAN,"Ticker
+AIRAN.NS    26.03
+Name: 2025-04-07 00:00:00, dtype: float64",0.03602,High
+AIROLAM,"Ticker
+AIROLAM.NS    90.74
+Name: 2025-04-07 00:00:00, dtype: float64",0.03397,High
+AJANTPHARM,"Ticker
+AJANTPHARM.NS    2374.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02468,Medium
+AJAXENGG,"Ticker
+AJAXENGG.NS    581.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.02327,Medium
+AJMERA,"Ticker
+AJMERA.NS    823.2
+Name: 2025-04-07 00:00:00, dtype: float64",0.03827,High
+AJOONI,"Ticker
+AJOONI.NS    5.51
+Name: 2025-04-07 00:00:00, dtype: float64",0.03019,High
+AKASH,"Ticker
+AKASH.NS    24.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.03123,High
+AKG,"Ticker
+AKG.NS    12.84
+Name: 2025-04-07 00:00:00, dtype: float64",0.02649,Medium
+AKI,"Ticker
+AKI.NS    8.08
+Name: 2025-04-07 00:00:00, dtype: float64",0.03017,High
+AKSHAR,"Ticker
+AKSHAR.NS    0.54
+Name: 2025-04-07 00:00:00, dtype: float64",0.02953,Medium
+AKSHARCHEM,"Ticker
+AKSHARCHEM.NS    202.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02425,Medium
+AKSHOPTFBR,"Ticker
+AKSHOPTFBR.NS    10.08
+Name: 2025-04-07 00:00:00, dtype: float64",0.04815,High
+AKUMS,"Ticker
+AKUMS.NS    421.4
+Name: 2025-04-07 00:00:00, dtype: float64",0.03139,High
+AKZOINDIA,"Ticker
+AKZOINDIA.NS    3403.1
+Name: 2025-04-07 00:00:00, dtype: float64",0.02919,Medium
+ALANKIT,"Ticker
+ALANKIT.NS    14.11
+Name: 2025-04-07 00:00:00, dtype: float64",0.03179,High
+ALBERTDAVD,"Ticker
+ALBERTDAVD.NS    781.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02973,Medium
+ALEMBICLTD,"Ticker
+ALEMBICLTD.NS    96.87
+Name: 2025-04-07 00:00:00, dtype: float64",0.02901,Medium
+ALICON,"Ticker
+ALICON.NS    617.5
+Name: 2025-04-07 00:00:00, dtype: float64",0.02498,Medium
+ALIVUS,"Ticker
+ALIVUS.NS    973.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.03586,High
+ALKALI,"Ticker
+ALKALI.NS    78.46
+Name: 2025-04-07 00:00:00, dtype: float64",0.02675,Medium
+ALKEM,"Ticker
+ALKEM.NS    4700.5
+Name: 2025-04-07 00:00:00, dtype: float64",0.01568,Medium
+ALKYLAMINE,"Ticker
+ALKYLAMINE.NS    1634.9
+Name: 2025-04-07 00:00:00, dtype: float64",0.02303,Medium
+ALLCARGO,"Ticker
+ALLCARGO.NS    27.52
+Name: 2025-04-07 00:00:00, dtype: float64",0.02509,Medium
+ALLDIGI,"Ticker
+ALLDIGI.NS    901.0
+Name: 2025-04-07 00:00:00, dtype: float64",0.02706,Medium
+ALMONDZ,"Ticker
+ALMONDZ.NS    20.99
+Name: 2025-04-07 00:00:00, dtype: float64",0.03076,High
+ALOKINDS,"Ticker
+ALOKINDS.NS    14.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02632,Medium

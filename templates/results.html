@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Your plan — FinWise{% endblock %}
+{% block content %}
+<section class="page-head"><div><div class="eyebrow">YOUR FINANCIAL SNAPSHOT</div><h1>Here is your plan</h1></div><a class="btn btn-ghost" href="{{ url_for('questionnaire') }}">Recalculate</a></section>
+<div class="metrics">
+<div class="metric"><small>Monthly income</small><strong>{{ "₹{:,.0f}".format(plan.income) }}</strong></div>
+<div class="metric"><small>Monthly expenses</small><strong>{{ "₹{:,.0f}".format(plan.expenses) }}</strong></div>
+<div class="metric"><small>Leftover</small><strong>{{ "₹{:,.0f}".format(plan.leftover) }}</strong></div>
+<div class="metric accent"><small>Investment budget</small><strong>{{ "₹{:,.0f}".format(plan.investment) }}</strong></div>
+</div>
+<div class="split">
+<section class="panel"><h2>Suggested allocation</h2>
+<div class="allocation">
+<div><span>Emergency fund</span><b>{{ "₹{:,.0f}".format(plan.emergency) }}</b><i><em style="width:50%"></em></i></div>
+<div><span>Investment</span><b>{{ "₹{:,.0f}".format(plan.investment) }}</b><i><em style="width:30%"></em></i></div>
+<div><span>Savings</span><b>{{ "₹{:,.0f}".format(plan.savings) }}</b><i><em style="width:20%"></em></i></div>
+</div></section>
+<section class="panel"><h2>Preferences</h2><div class="preference"><span>Risk</span><b>{{ plan.risk|title }}</b></div><div class="preference"><span>Type</span><b>{{ plan.investment_type|replace("_"," ")|title }}</b></div><p class="muted">These allocations are a simple educational rule, not personalized financial advice.</p></section>
+</div>
+<section class="panel">
+<div class="panel-head"><div><h2>Educational stock ideas</h2><p class="muted">Risk: {{ plan.risk|title }} · Budget per position ≤ {{ "₹{:,.0f}".format(plan.investment) }}</p></div>
+<form method="post" action="{{ url_for('get_stocks') }}"><input type="hidden" name="risk" value="{{ plan.risk }}"><input type="hidden" name="allocated_budget" value="{{ plan.investment }}"><button class="btn btn-small">Refresh data</button></form></div>
+{% if stocks %}
+<div class="table-wrap"><table><thead><tr><th>Company</th><th>Price</th><th>Volatility</th><th>Risk</th></tr></thead><tbody>
+{% for s in stocks %}<tr><td><b>{{ s.Company }}</b></td><td>₹{{ "{:,.2f}".format(s["Current Price"]) }}</td><td>{{ s.Volatility }}</td><td><span class="risk {{ s["Risk Level"]|lower }}">{{ s["Risk Level"] }}</span></td></tr>{% endfor %}
+</tbody></table></div>
+{% else %}<div class="empty">No matching stock ideas were found for this budget/risk combination. Try a different risk level or recalculate.</div>{% endif %}
+</section>
+{% endblock %}

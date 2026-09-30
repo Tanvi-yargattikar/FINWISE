@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Financial plan — FinWise{% endblock %}
+{% block content %}
+<section class="form-shell">
+<div class="eyebrow">STEP 1 · YOUR NUMBERS</div>
+<h1>Build your monthly plan</h1>
+<p>Use approximate monthly numbers. FinWise uses them to create an educational allocation.</p>
+<form method="post" action="{{ url_for('submit') }}" class="form two-col">
+<label>Monthly income (₹)<input type="number" name="income" min="0" step="100" required placeholder="75000"></label>
+<label>Monthly expenses (₹)<input type="number" name="expenses" min="0" step="100" required placeholder="45000"></label>
+<div class="full">
+<label>Do you want to invest part of your leftover income?</label>
+<div class="radio-row">
+<label><input type="radio" name="invest" value="yes" required> Yes</label>
+<label><input type="radio" name="invest" value="no"> No</label>
+</div>
+</div>
+<div id="options" class="full hidden-box">
+<label>Risk preference
+<select name="risk"><option value="low">Low</option><option value="medium" selected>Medium</option><option value="high">High</option></select></label>
+<label>Investment type
+<select name="investment_type"><option value="stocks">Stocks</option><option value="mutual_funds">Mutual Funds</option><option value="both">Both</option></select></label>
+</div>
+<div class="full"><button class="btn" type="submit">Generate my plan →</button></div>
+</form>
+</section>
+<script>
+document.querySelectorAll('input[name="invest"]').forEach(r => r.addEventListener('change', () => {
+  document.getElementById('options').style.display = document.querySelector('input[name="invest"][value="yes"]').checked ? 'grid' : 'none';
+}));
+</script>
+{% endblock %}

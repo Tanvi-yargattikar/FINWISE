@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}Dashboard — FinWise{% endblock %}
+{% block head %}<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>{% endblock %}
+{% block content %}
+<section class="page-head"><div><div class="eyebrow">FINWISE DASHBOARD</div><h1>Hello, {{ username }}.</h1><p class="muted">Your latest saved financial plan at a glance.</p></div><a class="btn" href="{{ url_for('questionnaire') }}">New plan</a></section>
+{% if plan %}
+<div class="metrics">
+<div class="metric"><small>Income</small><strong>{{ "₹{:,.0f}".format(plan.income) }}</strong></div>
+<div class="metric"><small>Expenses</small><strong>{{ "₹{:,.0f}".format(plan.expenses) }}</strong></div>
+<div class="metric"><small>Savings</small><strong>{{ "₹{:,.0f}".format(plan.savings) }}</strong></div>
+<div class="metric accent"><small>Investing</small><strong>{{ "₹{:,.0f}".format(plan.investment) }}</strong></div>
+</div>
+<div class="chart-grid">
+<section class="panel"><h2>Monthly allocation</h2><canvas id="allocationChart"></canvas></section>
+<section class="panel"><h2>Plan summary</h2><div class="summary-list"><div><span>Risk preference</span><b>{{ plan.risk|title }}</b></div><div><span>Investment type</span><b>{{ plan.investment_type|replace("_"," ")|title }}</b></div><div><span>Leftover after expenses</span><b>{{ "₹{:,.0f}".format(plan.leftover) }}</b></div></div><a class="btn btn-ghost full-btn" href="{{ url_for('results') }}">View recommendations</a></section>
+</div>
+<script>
+new Chart(document.getElementById('allocationChart'), {
+ type:'doughnut',
+ data:{labels:['Emergency','Investment','Savings'],datasets:[{data:[{{plan.emergency}},{{plan.investment}},{{plan.savings}}]}]},
+ options:{plugins:{legend:{position:'bottom'}},cutout:'68%'}
+});
+</script>
+{% else %}
+<section class="empty-panel"><h2>No plan yet</h2><p>Create your first financial plan to populate the dashboard.</p><a class="btn" href="{{ url_for('questionnaire') }}">Create plan →</a></section>
+{% endif %}
+{% endblock %}

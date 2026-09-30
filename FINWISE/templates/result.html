@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Financial Breakdown</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='result.css') }}">
+</head>
+<body>
+    <h2>Financial Allocation</h2>
+
+    <div class="card-container">
+        <div class="card blue">
+            <h4>Leftover Income</h4>
+            <h2>₹{{ leftover }}</h2>
+        </div>
+        <div class="card orange">
+            <h4>Emergency Fund</h4>
+            <h2>₹{{ emergency }}</h2>
+        </div>
+        <div class="card teal">
+            <h4>Savings</h4>
+            <h2>₹{{ savings }}</h2>
+        </div>
+        
+        <div class="card darkgreen">
+            <h4>Investment</h4>
+            <h2>₹{{ investment }}</h2>
+        </div>
+    </div>
+
+    {% if investment > 0 %}
+    <form method="POST" action="/get-stocks">
+        <input type="hidden" name="risk" value="{{ risk }}">
+        <input type="hidden" name="allocated_budget" value="{{ investment }}">
+        <button type="submit">Refresh Stock Recommendations</button>
+    </form>
+    {% endif %}
+
+    <h3>Recommended Stocks</h3>
+    {% if stocks %}
+        <table border="1" cellpadding="5">
+            <tr>
+                <th>Company</th>
+                <th>Current Price (₹)</th>
+                <th>Volatility</th>
+                <th>Risk Level</th>
+            </tr>
+            {% for stock in stocks %}
+            <tr>
+                <td>{{ stock['Company'] }}</td>
+                <td>{{ stock['Current Price'] }}</td>
+                <td>{{ stock['Volatility'] }}</td>
+                <td>{{ stock['Risk Level'] }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% else %}
+        <p>No stocks found matching the selected risk and budget.</p>
+    {% endif %}
+
+    <a href="/">Go Back</a>
+</body>
+</html>

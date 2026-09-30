@@ -1,0 +1,148 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #121212;
+    color: #edf6f2;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+}
+
+h2, h3 {
+    color: #00ff99;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+table {
+    margin: 30px auto;
+    width: 95%;
+    border-collapse: separate;
+    border-spacing: 0;
+    background-color: #1e1e1e;
+    color: #edf6f2;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 15px rgba(0, 255, 153, 0.2);
+}
+
+th, td {
+    padding: 15px 18px;
+    border-bottom: 1px solid #333;
+    font-size: 16px;
+    text-align: center;
+}
+
+th {
+    background-color: #00cc66;
+    color: #121212;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border: none;
+}
+
+tr:nth-child(even) {
+    background-color: #252525;
+}
+
+tr:hover {
+    background-color: #2f2f2f;
+    transition: background-color 0.3s ease;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 20px auto;
+    background-color: #28a745;
+    color: #121212;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #00cc66;
+}
+
+a {
+    display: inline-block;
+    margin-top: 30px;
+    color: #00ffcc;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* === Card Layout === */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.card {
+    background-color: #1e1e1e;
+    padding: 20px 25px;
+    width: 220px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 255, 153, 0.2);
+    border-left: 5px solid;
+    text-align: left;
+    transition: transform 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+
+
+.card h2 {
+    margin: 0;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+/* Card Color Themes */
+.card.blue {
+    border-color: #00bcd4;
+}
+.card.blue h2 {
+    color: #00e6ff;
+}
+
+.card.orange {
+    border-color: #ff9800;
+}
+.card.orange h2 {
+    color: #ffb84d;
+}
+
+.card.teal {
+    border-color: #00cc99;
+}
+.card.teal h2 {
+    color: #33ffcc;
+}
+
+
+
+
+.card.darkgreen {
+    border-color: #2e7d32;
+}
+.card.darkgreen h2 {
+    color: #66ff66;
+}
+

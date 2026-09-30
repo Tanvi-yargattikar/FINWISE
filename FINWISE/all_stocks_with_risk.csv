@@ -1,0 +1,2998 @@
+Company,Current Price,Volatility,Risk Level
+SALONA,"Ticker
+SALONA.NS   235.04
+Name: 2025-04-07 00:00:00, dtype: float64",0.02998,Medium
+RITES,"Ticker
+RITES.NS   213.32
+Name: 2025-04-07 00:00:00, dtype: float64",0.02872,Medium
+CREDITACC,"Ticker
+CREDITACC.NS   956.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.0376,High
+ORIENTALTL,"Ticker
+ORIENTALTL.NS   8.78
+Name: 2025-04-07 00:00:00, dtype: float64",0.0323,High
+CORDSCABLE,"Ticker
+CORDSCABLE.NS   150.56
+Name: 2025-04-07 00:00:00, dtype: float64",0.03755,High
+HBSL,"Ticker
+HBSL.NS   80.33
+Name: 2025-04-07 00:00:00, dtype: float64",0.03499,High
+GRWRHITECH,"Ticker
+GRWRHITECH.NS   2418.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.04588,High
+PENINLAND,"Ticker
+PENINLAND.NS   24.01
+Name: 2025-04-07 00:00:00, dtype: float64",0.03505,High
+VIJIFIN,"Ticker
+VIJIFIN.NS   2.21
+Name: 2025-04-07 00:00:00, dtype: float64",0.02981,Medium
+SAMBHAAV,"Ticker
+SAMBHAAV.NS   5.22
+Name: 2025-04-07 00:00:00, dtype: float64",0.04285,High
+A2ZINFRA,"Ticker
+A2ZINFRA.NS   12.88
+Name: 2025-04-07 00:00:00, dtype: float64",0.04041,High
+NGLFINE,"Ticker
+NGLFINE.NS   1080.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.0365,High
+LAMBODHARA,"Ticker
+LAMBODHARA.NS   124.81
+Name: 2025-04-07 00:00:00, dtype: float64",0.04449,High
+POLYMED,"Ticker
+POLYMED.NS   1994.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.03248,High
+BANARISUG,"Ticker
+BANARISUG.NS   3707.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02147,Medium
+NIBL,"Ticker
+NIBL.NS   22.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.03145,High
+MONTECARLO,"Ticker
+MONTECARLO.NS   524.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02666,Medium
+E2E,"Ticker
+E2E.NS   1854.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.03834,High
+BIRLACORPN,"Ticker
+BIRLACORPN.NS   1090.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02124,Medium
+UNICHEMLAB,"Ticker
+UNICHEMLAB.NS   606.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02833,Medium
+SAH,"Ticker
+SAH.NS   75.31
+Name: 2025-04-07 00:00:00, dtype: float64",0.03439,High
+GODIGIT,"Ticker
+GODIGIT.NS   278.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02757,Medium
+NSIL,"Ticker
+NSIL.NS   6509.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.0451,High
+SUPRAJIT,"Ticker
+SUPRAJIT.NS   364.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02133,Medium
+IFBAGRO,"Ticker
+IFBAGRO.NS   452.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.02748,Medium
+INDUSINDBK,"Ticker
+INDUSINDBK.NS   675.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.0343,High
+RUSTOMJEE,"Ticker
+RUSTOMJEE.NS   512.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.01786,Medium
+MODISONLTD,"Ticker
+MODISONLTD.NS   124.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.0326,High
+RATNAMANI,"Ticker
+RATNAMANI.NS   2516.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.01828,Medium
+BIGBLOC,"Ticker
+BIGBLOC.NS   61.66
+Name: 2025-04-07 00:00:00, dtype: float64",0.03678,High
+UPL,"Ticker
+UPL.NS   614.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.01895,Medium
+BEML,"Ticker
+BEML.NS   2765.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.03126,High
+PNGJL,"Ticker
+PNGJL.NS   509.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02795,Medium
+HINDCON,"Ticker
+HINDCON.NS   30.77
+Name: 2025-04-07 00:00:00, dtype: float64",0.03472,High
+UDAICEMENT,"Ticker
+UDAICEMENT.NS   26.26
+Name: 2025-04-07 00:00:00, dtype: float64",0.02126,Medium
+DREAMFOLKS,"Ticker
+DREAMFOLKS.NS   217.03
+Name: 2025-04-07 00:00:00, dtype: float64",0.02536,Medium
+OPTIEMUS,"Ticker
+OPTIEMUS.NS   394.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03525,High
+DHANI,"Ticker
+DHANI.NS   54.51
+Name: 2025-04-07 00:00:00, dtype: float64",0.0455,High
+TFCILTD,"Ticker
+TFCILTD.NS   176.16
+Name: 2025-04-07 00:00:00, dtype: float64",0.03287,High
+JPASSOCIAT,"Ticker
+JPASSOCIAT.NS   3.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03243,High
+AUTOIND,"Ticker
+AUTOIND.NS   68.22
+Name: 2025-04-07 00:00:00, dtype: float64",0.03079,High
+GOENKA,"Ticker
+GOENKA.NS   0.93
+Name: 2025-04-07 00:00:00, dtype: float64",0.03033,High
+TRIVENI,"Ticker
+TRIVENI.NS   364.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.02707,Medium
+IVP,"Ticker
+IVP.NS   147.57
+Name: 2025-04-07 00:00:00, dtype: float64",0.03686,High
+URJA,"Ticker
+URJA.NS   11.87
+Name: 2025-04-07 00:00:00, dtype: float64",0.02288,Medium
+RELAXO,"Ticker
+RELAXO.NS   402.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.01771,Medium
+GALAPREC,"Ticker
+GALAPREC.NS   772.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.04958,High
+SHK,"Ticker
+SHK.NS   170.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.02851,Medium
+FINCABLES,"Ticker
+FINCABLES.NS   855.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03118,High
+PANAMAPET,"Ticker
+PANAMAPET.NS   349.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02722,Medium
+ZOMATO,"Ticker
+ZOMATO.NS   209.63
+Name: 2025-04-07 00:00:00, dtype: float64",0.02871,Medium
+TARACHAND,"Ticker
+TARACHAND.NS   61.36
+Name: 2025-04-07 00:00:00, dtype: float64",0.03466,High
+VOLTAS,"Ticker
+VOLTAS.NS   1294.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02538,Medium
+PEL,"Ticker
+PEL.NS   954.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.02473,Medium
+IOLCP,"Ticker
+IOLCP.NS   59.78
+Name: 2025-04-07 00:00:00, dtype: float64",0.02668,Medium
+GANGESSECU,"Ticker
+GANGESSECU.NS   137.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.03651,High
+CANTABIL,"Ticker
+CANTABIL.NS   242.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.0309,High
+KAJARIACER,"Ticker
+KAJARIACER.NS   785.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.01691,Medium
+PRICOLLTD,"Ticker
+PRICOLLTD.NS   411.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.0227,Medium
+BIOCON,"Ticker
+BIOCON.NS   307.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.02435,Medium
+GENUSPOWER,"Ticker
+GENUSPOWER.NS   265.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.03294,High
+ITCHOTELS,"Ticker
+ITCHOTELS.NS   195.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02981,Medium
+MUTHOOTCAP,"Ticker
+MUTHOOTCAP.NS   250.17
+Name: 2025-04-07 00:00:00, dtype: float64",0.02435,Medium
+RBA,"Ticker
+RBA.NS   66.28
+Name: 2025-04-07 00:00:00, dtype: float64",0.02254,Medium
+FINPIPE,"Ticker
+FINPIPE.NS   175.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.02435,Medium
+MEDICO,"Ticker
+MEDICO.NS   56.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.04285,High
+RSYSTEMS,"Ticker
+RSYSTEMS.NS   293.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.0253,Medium
+PRIVISCL,"Ticker
+PRIVISCL.NS   1693.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.02396,Medium
+ZENTEC,"Ticker
+ZENTEC.NS   1377.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.04156,High
+SUVEN,"Ticker
+SUVEN.NS   118.81
+Name: 2025-04-07 00:00:00, dtype: float64",0.03763,High
+ORIENTELEC,"Ticker
+ORIENTELEC.NS   197.17
+Name: 2025-04-07 00:00:00, dtype: float64",0.02804,Medium
+ZYDUSWELL,"Ticker
+ZYDUSWELL.NS   1682.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.01774,Medium
+SUNDROP,"Ticker
+SUNDROP.NS   760.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.03983,High
+SPORTKING,"Ticker
+SPORTKING.NS   85.94
+Name: 2025-04-07 00:00:00, dtype: float64",0.0353,High
+SPCENET,"Ticker
+SPCENET.NS   7.07
+Name: 2025-04-07 00:00:00, dtype: float64",0.04649,High
+GOKUL,"Ticker
+GOKUL.NS   41.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02958,Medium
+NIVABUPA,"Ticker
+NIVABUPA.NS   71.73
+Name: 2025-04-07 00:00:00, dtype: float64",0.03454,High
+BALAMINES,"Ticker
+BALAMINES.NS   1168.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02486,Medium
+SOLARINDS,"Ticker
+SOLARINDS.NS   10645.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02338,Medium
+RPPINFRA,"Ticker
+RPPINFRA.NS   150.14
+Name: 2025-04-07 00:00:00, dtype: float64",0.03812,High
+SMCGLOBAL,"Ticker
+SMCGLOBAL.NS   106.11
+Name: 2025-04-07 00:00:00, dtype: float64",0.02574,Medium
+DEN,"Ticker
+DEN.NS   29.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.02545,Medium
+PSPPROJECT,"Ticker
+PSPPROJECT.NS   630.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.01797,Medium
+FCONSUMER,"Ticker
+FCONSUMER.NS   0.48
+Name: 2025-04-07 00:00:00, dtype: float64",0.01934,Medium
+DBSTOCKBRO,"Ticker
+DBSTOCKBRO.NS   26.82
+Name: 2025-04-07 00:00:00, dtype: float64",0.02357,Medium
+ARCHIES,"Ticker
+ARCHIES.NS   16.74
+Name: 2025-04-07 00:00:00, dtype: float64",0.03078,High
+BAJAJHFL,"Ticker
+BAJAJHFL.NS   118.08
+Name: 2025-04-07 00:00:00, dtype: float64",0.02373,Medium
+ROUTE,"Ticker
+ROUTE.NS   921.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.01831,Medium
+KIRLOSIND,"Ticker
+KIRLOSIND.NS   3321.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.02565,Medium
+AGARWALEYE,"Ticker
+AGARWALEYE.NS   417.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.02298,Medium
+KPIL,"Ticker
+KPIL.NS   868.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02541,Medium
+LOTUSEYE,"Ticker
+LOTUSEYE.NS   65.74
+Name: 2025-04-07 00:00:00, dtype: float64",0.02724,Medium
+NYKAA,"Ticker
+NYKAA.NS   171.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.01751,Medium
+ZUARIIND,"Ticker
+ZUARIIND.NS   237.82
+Name: 2025-04-07 00:00:00, dtype: float64",0.02982,Medium
+SURAKSHA,"Ticker
+SURAKSHA.NS   267.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.0276,Medium
+PSB,"Ticker
+PSB.NS   25.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03597,High
+BANKA,"Ticker
+BANKA.NS   69.21
+Name: 2025-04-07 00:00:00, dtype: float64",0.0431,High
+PUNJABCHEM,"Ticker
+PUNJABCHEM.NS   943.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.03305,High
+ARKADE,"Ticker
+ARKADE.NS   145.42
+Name: 2025-04-07 00:00:00, dtype: float64",0.03369,High
+PARAGMILK,"Ticker
+PARAGMILK.NS   172.84
+Name: 2025-04-07 00:00:00, dtype: float64",0.03131,High
+JUSTDIAL,"Ticker
+JUSTDIAL.NS   795.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02976,Medium
+VIPCLOTHNG,"Ticker
+VIPCLOTHNG.NS   33.56
+Name: 2025-04-07 00:00:00, dtype: float64",0.03407,High
+FLAIR,"Ticker
+FLAIR.NS   231.54
+Name: 2025-04-07 00:00:00, dtype: float64",0.02978,Medium
+BAIDFIN,"Ticker
+BAIDFIN.NS   9.97
+Name: 2025-04-07 00:00:00, dtype: float64",0.03075,High
+MODTHREAD,"Ticker
+MODTHREAD.NS   36.49
+Name: 2025-04-07 00:00:00, dtype: float64",0.0313,High
+UNIVCABLES,"Ticker
+UNIVCABLES.NS   436.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03518,High
+WELENT,"Ticker
+WELENT.NS   463.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02716,Medium
+SWANENERGY,"Ticker
+SWANENERGY.NS   383.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.03843,High
+SFL,"Ticker
+SFL.NS   685.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.01969,Medium
+KNRCON,"Ticker
+KNRCON.NS   217.51
+Name: 2025-04-07 00:00:00, dtype: float64",0.02815,Medium
+DELHIVERY,"Ticker
+DELHIVERY.NS   268.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02239,Medium
+GENSOL,"Ticker
+GENSOL.NS   154.74
+Name: 2025-04-07 00:00:00, dtype: float64",0.03871,High
+SSDL,"Ticker
+SSDL.NS   84.46
+Name: 2025-04-07 00:00:00, dtype: float64",0.02955,Medium
+ABSLAMC,"Ticker
+ABSLAMC.NS   633.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.02582,Medium
+KARMAENG,"Ticker
+KARMAENG.NS   50.18
+Name: 2025-04-07 00:00:00, dtype: float64",0.03839,High
+AARTIDRUGS,"Ticker
+AARTIDRUGS.NS   321.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02327,Medium
+JOCIL,"Ticker
+JOCIL.NS   136.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02327,Medium
+RGL,"Ticker
+RGL.NS   108.79
+Name: 2025-04-07 00:00:00, dtype: float64",0.03535,High
+IMFA,"Ticker
+IMFA.NS   592.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.02906,Medium
+TIMESGTY,"Ticker
+TIMESGTY.NS   186.82
+Name: 2025-04-07 00:00:00, dtype: float64",0.03436,High
+MOHITIND,"Ticker
+MOHITIND.NS   27.92
+Name: 2025-04-07 00:00:00, dtype: float64",0.03623,High
+OBEROIRLTY,"Ticker
+OBEROIRLTY.NS   1483.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02464,Medium
+SWSOLAR,"Ticker
+SWSOLAR.NS   240.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.03441,High
+MANAKALUCO,"Ticker
+MANAKALUCO.NS   20.93
+Name: 2025-04-07 00:00:00, dtype: float64",0.04405,High
+DEVIT,"Ticker
+DEVIT.NS   103.17
+Name: 2025-04-07 00:00:00, dtype: float64",0.03595,High
+BHARATWIRE,"Ticker
+BHARATWIRE.NS   179.77
+Name: 2025-04-07 00:00:00, dtype: float64",0.03719,High
+SAFARI,"Ticker
+SAFARI.NS   1928.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.02421,Medium
+GREAVESCOT,"Ticker
+GREAVESCOT.NS   181.24
+Name: 2025-04-07 00:00:00, dtype: float64",0.04373,High
+SIMBHALS,"Ticker
+SIMBHALS.NS   12.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.02587,Medium
+MAZDA,"Ticker
+MAZDA.NS   239.12
+Name: 2025-04-07 00:00:00, dtype: float64",0.03559,High
+KIRLOSBROS,"Ticker
+KIRLOSBROS.NS   1629.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03444,High
+ONESOURCE,"Ticker
+ONESOURCE.NS   1376.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03562,High
+SEPC,"Ticker
+SEPC.NS   13.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03798,High
+APTECHT,"Ticker
+APTECHT.NS   111.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.03478,High
+SAKHTISUG,"Ticker
+SAKHTISUG.NS   20.68
+Name: 2025-04-07 00:00:00, dtype: float64",0.03179,High
+BATAINDIA,"Ticker
+BATAINDIA.NS   1180.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.01794,Medium
+TRACXN,"Ticker
+TRACXN.NS   51.08
+Name: 2025-04-07 00:00:00, dtype: float64",0.02738,Medium
+LASA,"Ticker
+LASA.NS   17.29
+Name: 2025-04-07 00:00:00, dtype: float64",0.03661,High
+KRN,"Ticker
+KRN.NS   757.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.04523,High
+MAHESHWARI,"Ticker
+MAHESHWARI.NS   56.03
+Name: 2025-04-07 00:00:00, dtype: float64",0.02448,Medium
+MARINE,"Ticker
+MARINE.NS   163.31
+Name: 2025-04-07 00:00:00, dtype: float64",0.03774,High
+NGIL,"Ticker
+NGIL.NS   31.44
+Name: 2025-04-07 00:00:00, dtype: float64",0.02602,Medium
+VRAJ,"Ticker
+VRAJ.NS   154.76
+Name: 2025-04-07 00:00:00, dtype: float64",0.02864,Medium
+MTARTECH,"Ticker
+MTARTECH.NS   1248.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.03076,High
+BESTAGRO,"Ticker
+BESTAGRO.NS   284.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.03561,High
+63MOONS,"Ticker
+63MOONS.NS   731.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.04047,High
+INDOTHAI,"Ticker
+INDOTHAI.NS   1960.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02512,Medium
+TDPOWERSYS,"Ticker
+TDPOWERSYS.NS   358.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.03139,High
+GANGOTRI,"Ticker
+GANGOTRI.NS   0.73
+Name: 2025-04-07 00:00:00, dtype: float64",0.01913,Medium
+ATAM,"Ticker
+ATAM.NS   82.37
+Name: 2025-04-07 00:00:00, dtype: float64",0.03091,High
+DCXINDIA,"Ticker
+DCXINDIA.NS   217.12
+Name: 2025-04-07 00:00:00, dtype: float64",0.0308,High
+VAIBHAVGBL,"Ticker
+VAIBHAVGBL.NS   200.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02838,Medium
+BASF,"Ticker
+BASF.NS   4318.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.02768,Medium
+VASCONEQ,"Ticker
+VASCONEQ.NS   36.17
+Name: 2025-04-07 00:00:00, dtype: float64",0.03029,High
+ERIS,"Ticker
+ERIS.NS   1274.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.02457,Medium
+NRL,"Ticker
+NRL.NS   54.78
+Name: 2025-04-07 00:00:00, dtype: float64",0.03971,High
+PGEL,"Ticker
+PGEL.NS   813.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.03982,High
+NOCIL,"Ticker
+NOCIL.NS   165.67
+Name: 2025-04-07 00:00:00, dtype: float64",0.02574,Medium
+SBIN,"Ticker
+SBIN.NS   746.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.0147,Low
+INDRAMEDCO,"Ticker
+INDRAMEDCO.NS   380.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.03711,High
+BASML,"Ticker
+BASML.NS   31.04
+Name: 2025-04-07 00:00:00, dtype: float64",0.03386,High
+HDFCAMC,"Ticker
+HDFCAMC.NS   3732.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.01966,Medium
+PARKHOTELS,"Ticker
+PARKHOTELS.NS   134.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.03187,High
+AAVAS,"Ticker
+AAVAS.NS   1978.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.01199,Low
+TREEHOUSE,"Ticker
+TREEHOUSE.NS   10.14
+Name: 2025-04-07 00:00:00, dtype: float64",0.02968,Medium
+SANCO,"Ticker
+SANCO.NS   2.28
+Name: 2025-04-04 00:00:00, dtype: float64",0.02858,Medium
+SPMLINFRA,"Ticker
+SPMLINFRA.NS   175.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03359,High
+CALSOFT,"Ticker
+CALSOFT.NS   10.89
+Name: 2025-04-07 00:00:00, dtype: float64",0.04691,High
+LGHL,"Ticker
+LGHL.NS   487.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03537,High
+CSLFINANCE,"Ticker
+CSLFINANCE.NS   240.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02934,Medium
+KREBSBIO,"Ticker
+KREBSBIO.NS   70.37
+Name: 2025-04-07 00:00:00, dtype: float64",0.04202,High
+KRIDHANINF,"Ticker
+KRIDHANINF.NS   3.42
+Name: 2025-04-07 00:00:00, dtype: float64",0.04727,High
+SEMAC,"Ticker
+SEMAC.NS   342.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02739,Medium
+VMM,"Ticker
+VMM.NS   102.49
+Name: 2025-04-07 00:00:00, dtype: float64",0.02889,Medium
+CIGNITITEC,"Ticker
+CIGNITITEC.NS   1159.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.02907,Medium
+IMPAL,"Ticker
+IMPAL.NS   963.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.02297,Medium
+RKSWAMY,"Ticker
+RKSWAMY.NS   198.46
+Name: 2025-04-07 00:00:00, dtype: float64",0.03288,High
+CLEAN,"Ticker
+CLEAN.NS   1167.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02309,Medium
+AUTOAXLES,"Ticker
+AUTOAXLES.NS   1560.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.01609,Medium
+COROMANDEL,"Ticker
+COROMANDEL.NS   1968.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.01936,Medium
+POWERGRID,"Ticker
+POWERGRID.NS   289.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.01639,Medium
+WINSOME,"Ticker
+WINSOME.NS   1.69
+Name: 2025-04-07 00:00:00, dtype: float64",0.0157,Medium
+PGHH,"Ticker
+PGHH.NS   13664.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.01484,Low
+GVPTECH,"Ticker
+GVPTECH.NS   9.39
+Name: 2025-04-07 00:00:00, dtype: float64",0.03251,High
+CENTUM,"Ticker
+CENTUM.NS   1508.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.04048,High
+DMART,"Ticker
+DMART.NS   4023.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02214,Medium
+DUCON,"Ticker
+DUCON.NS   5.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.03323,High
+CHEMFAB,"Ticker
+CHEMFAB.NS   796.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.03419,High
+AKSHAR,"Ticker
+AKSHAR.NS   0.54
+Name: 2025-04-07 00:00:00, dtype: float64",0.02953,Medium
+CMICABLES,"Ticker
+CMICABLES.NS   3.74
+Name: 2025-04-07 00:00:00, dtype: float64",0.02002,Medium
+AARTECH,"Ticker
+AARTECH.NS   52.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.03071,High
+TALBROAUTO,"Ticker
+TALBROAUTO.NS   229.67
+Name: 2025-04-07 00:00:00, dtype: float64",0.03475,High
+NATIONALUM,"Ticker
+NATIONALUM.NS   144.69
+Name: 2025-04-07 00:00:00, dtype: float64",0.0282,Medium
+ALLCARGO,"Ticker
+ALLCARGO.NS   27.52
+Name: 2025-04-07 00:00:00, dtype: float64",0.02509,Medium
+MAHABANK,"Ticker
+MAHABANK.NS   43.62
+Name: 2025-04-07 00:00:00, dtype: float64",0.02538,Medium
+PRUDENT,"Ticker
+PRUDENT.NS   1971.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.0429,High
+MCL,"Ticker
+MCL.NS   44.73
+Name: 2025-04-07 00:00:00, dtype: float64",0.04409,High
+MAZDOCK,"Ticker
+MAZDOCK.NS   2317.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.03559,High
+BLSE,"Ticker
+BLSE.NS   138.99
+Name: 2025-04-07 00:00:00, dtype: float64",0.02504,Medium
+JINDRILL,"Ticker
+JINDRILL.NS   691.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.04101,High
+PENIND,"Ticker
+PENIND.NS   173.93
+Name: 2025-04-07 00:00:00, dtype: float64",0.03589,High
+SGIL,"Ticker
+SGIL.NS   383.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.02783,Medium
+BLACKBUCK,"Ticker
+BLACKBUCK.NS   389.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.04512,High
+CHEMCON,"Ticker
+CHEMCON.NS   167.97
+Name: 2025-04-07 00:00:00, dtype: float64",0.02023,Medium
+HUHTAMAKI,"Ticker
+HUHTAMAKI.NS   180.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.0307,High
+AMBICAAGAR,"Ticker
+AMBICAAGAR.NS   26.03
+Name: 2025-04-07 00:00:00, dtype: float64",0.03099,High
+IRB,"Ticker
+IRB.NS   43.19
+Name: 2025-04-07 00:00:00, dtype: float64",0.02657,Medium
+MAGADSUGAR,"Ticker
+MAGADSUGAR.NS   618.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.03417,High
+ROML,"Ticker
+ROML.NS   43.38
+Name: 2025-04-07 00:00:00, dtype: float64",0.03026,High
+HLVLTD,"Ticker
+HLVLTD.NS   11.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.03697,High
+RECLTD,"Ticker
+RECLTD.NS   384.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02604,Medium
+NIRAJISPAT,"Ticker
+NIRAJISPAT.NS   267.16
+Name: 2025-04-04 00:00:00, dtype: float64",0.01185,Low
+KALYANIFRG,"Ticker
+KALYANIFRG.NS   519.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.03119,High
+MEP,"Ticker
+MEP.NS   1.17
+Name: 2025-04-07 00:00:00, dtype: float64",0.03383,High
+BSHSL,"Ticker
+BSHSL.NS   119.76
+Name: 2025-04-07 00:00:00, dtype: float64",0.02952,Medium
+STEELCAS,"Ticker
+STEELCAS.NS   794.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02846,Medium
+BEL,"Ticker
+BEL.NS   272.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.02225,Medium
+BAJAJHLDNG,"Ticker
+BAJAJHLDNG.NS   10779.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02458,Medium
+DCBBANK,"Ticker
+DCBBANK.NS   113.07
+Name: 2025-04-07 00:00:00, dtype: float64",0.01855,Medium
+SECURKLOUD,"Ticker
+SECURKLOUD.NS   22.86
+Name: 2025-04-07 00:00:00, dtype: float64",0.04242,High
+BHANDARI,"Ticker
+BHANDARI.NS   4.79
+Name: 2025-04-07 00:00:00, dtype: float64",0.03087,High
+ARMANFIN,"Ticker
+ARMANFIN.NS   1316.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.02986,Medium
+LUMAXTECH,"Ticker
+LUMAXTECH.NS   475.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.02726,Medium
+MANGALAM,"Ticker
+MANGALAM.NS   73.32
+Name: 2025-04-07 00:00:00, dtype: float64",0.03196,High
+SHANKARA,"Ticker
+SHANKARA.NS   586.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.0365,High
+UJJIVANSFB,"Ticker
+UJJIVANSFB.NS   35.14
+Name: 2025-04-07 00:00:00, dtype: float64",0.02333,Medium
+TMB,"Ticker
+TMB.NS   412.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.01203,Low
+AARTIPHARM,"Ticker
+AARTIPHARM.NS   649.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.03125,High
+GROBTEA,"Ticker
+GROBTEA.NS   895.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.03124,High
+HDFCLIFE,"Ticker
+HDFCLIFE.NS   665.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.0154,Medium
+PARADEEP,"Ticker
+PARADEEP.NS   114.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.03342,High
+RATNAVEER,"Ticker
+RATNAVEER.NS   123.51
+Name: 2025-04-07 00:00:00, dtype: float64",0.03619,High
+ASAL,"Ticker
+ASAL.NS   431.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.03431,High
+KMSUGAR,"Ticker
+KMSUGAR.NS   26.18
+Name: 2025-04-07 00:00:00, dtype: float64",0.02461,Medium
+JITFINFRA,"Ticker
+JITFINFRA.NS   359.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03756,High
+CHOLAHLDNG,"Ticker
+CHOLAHLDNG.NS   1558.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.02437,Medium
+SIL,"Ticker
+SIL.NS   19.26
+Name: 2025-04-07 00:00:00, dtype: float64",0.02785,Medium
+ACCURACY,"Ticker
+ACCURACY.NS   8.01
+Name: 2025-04-07 00:00:00, dtype: float64",0.03355,High
+SURYODAY,"Ticker
+SURYODAY.NS   108.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02914,Medium
+KALAMANDIR,"Ticker
+KALAMANDIR.NS   125.42
+Name: 2025-04-07 00:00:00, dtype: float64",0.02673,Medium
+PRECOT,"Ticker
+PRECOT.NS   388.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.03209,High
+MANOMAY,"Ticker
+MANOMAY.NS   168.94
+Name: 2025-04-07 00:00:00, dtype: float64",0.03003,High
+CARRARO,"Ticker
+CARRARO.NS   265.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.04818,High
+GHCLTEXTIL,"Ticker
+GHCLTEXTIL.NS   72.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.029,Medium
+SREEL,"Ticker
+SREEL.NS   221.04
+Name: 2025-04-07 00:00:00, dtype: float64",0.02324,Medium
+CYIENTDLM,"Ticker
+CYIENTDLM.NS   414.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.0294,Medium
+TGBHOTELS,"Ticker
+TGBHOTELS.NS   9.99
+Name: 2025-04-07 00:00:00, dtype: float64",0.0322,High
+KANSAINER,"Ticker
+KANSAINER.NS   234.97
+Name: 2025-04-07 00:00:00, dtype: float64",0.0171,Medium
+ASKAUTOLTD,"Ticker
+ASKAUTOLTD.NS   402.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02703,Medium
+DCW,"Ticker
+DCW.NS   73.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.03062,High
+JUBLFOOD,"Ticker
+JUBLFOOD.NS   669.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.02179,Medium
+TCIFINANCE,"Ticker
+TCIFINANCE.NS   12.09
+Name: 2025-04-07 00:00:00, dtype: float64",0.03025,High
+ONGC,"Ticker
+ONGC.NS   219.84
+Name: 2025-04-07 00:00:00, dtype: float64",0.01845,Medium
+PDSL,"Ticker
+PDSL.NS   388.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02452,Medium
+SAPPHIRE,"Ticker
+SAPPHIRE.NS   292.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02465,Medium
+PAVNAIND,"Ticker
+PAVNAIND.NS   344.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.04052,High
+SHRIRAMFIN,"Ticker
+SHRIRAMFIN.NS   614.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.02311,Medium
+APEX,"Ticker
+APEX.NS   200.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.03311,High
+LCCINFOTEC,"Ticker
+LCCINFOTEC.NS   5.29
+Name: 2025-04-07 00:00:00, dtype: float64",0.03268,High
+EUREKAFORB,"Ticker
+EUREKAFORB.NS   504.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.02623,Medium
+ESCORTS,"Ticker
+ESCORTS.NS   3050.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.0204,Medium
+TVTODAY,"Ticker
+TVTODAY.NS   160.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02323,Medium
+HEMIPROP,"Ticker
+HEMIPROP.NS   114.56
+Name: 2025-04-07 00:00:00, dtype: float64",0.02746,Medium
+JASH,"Ticker
+JASH.NS   581.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.03384,High
+MEDANTA,"Ticker
+MEDANTA.NS   1195.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.0228,Medium
+FCSSOFT,"Ticker
+FCSSOFT.NS   2.52
+Name: 2025-04-07 00:00:00, dtype: float64",0.03673,High
+MAHSEAMLES,"Ticker
+MAHSEAMLES.NS   642.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.02745,Medium
+MUNJALSHOW,"Ticker
+MUNJALSHOW.NS   106.82
+Name: 2025-04-07 00:00:00, dtype: float64",0.0208,Medium
+VOLTAMP,"Ticker
+VOLTAMP.NS   6493.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03693,High
+MODIRUBBER,"Ticker
+MODIRUBBER.NS   97.04
+Name: 2025-04-07 00:00:00, dtype: float64",0.0255,Medium
+INOXINDIA,"Ticker
+INOXINDIA.NS   960.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.01886,Medium
+PNCINFRA,"Ticker
+PNCINFRA.NS   262.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03335,High
+STERTOOLS,"Ticker
+STERTOOLS.NS   285.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03785,High
+DREDGECORP,"Ticker
+DREDGECORP.NS   509.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.03258,High
+JHS,"Ticker
+JHS.NS   14.22
+Name: 2025-04-07 00:00:00, dtype: float64",0.03565,High
+AEGISLOG,"Ticker
+AEGISLOG.NS   794.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.0405,High
+VINATIORGA,"Ticker
+VINATIORGA.NS   1458.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.01785,Medium
+KROSS,"Ticker
+KROSS.NS   156.17
+Name: 2025-04-07 00:00:00, dtype: float64",0.03536,High
+CCCL,"Ticker
+CCCL.NS   14.51
+Name: 2025-04-07 00:00:00, dtype: float64",0.03146,High
+NURECA,"Ticker
+NURECA.NS   209.06
+Name: 2025-04-07 00:00:00, dtype: float64",0.03843,High
+HNDFDS,"Ticker
+HNDFDS.NS   550.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.02249,Medium
+AKSHARCHEM,"Ticker
+AKSHARCHEM.NS   202.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02425,Medium
+RELTD,"Ticker
+RELTD.NS   117.39
+Name: 2025-04-07 00:00:00, dtype: float64",0.03559,High
+AVADHSUGAR,"Ticker
+AVADHSUGAR.NS   408.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.02844,Medium
+SBILIFE,"Ticker
+SBILIFE.NS   1460.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.01525,Medium
+SRHHYPOLTD,"Ticker
+SRHHYPOLTD.NS   478.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.03757,High
+PTC,"Ticker
+PTC.NS   157.91
+Name: 2025-04-07 00:00:00, dtype: float64",0.02452,Medium
+COMPINFO,"Ticker
+COMPINFO.NS   1.47
+Name: 2025-04-07 00:00:00, dtype: float64",0.031,High
+RHIM,"Ticker
+RHIM.NS   464.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02565,Medium
+FCL,"Ticker
+FCL.NS   214.07
+Name: 2025-04-07 00:00:00, dtype: float64",0.02782,Medium
+AARVEEDEN,"Ticker
+AARVEEDEN.NS   134.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.0215,Medium
+DIGIDRIVE,"Ticker
+DIGIDRIVE.NS   27.91
+Name: 2025-04-07 00:00:00, dtype: float64",0.03134,High
+WEL,"Ticker
+WEL.NS   153.82
+Name: 2025-04-07 00:00:00, dtype: float64",0.03594,High
+LOVABLE,"Ticker
+LOVABLE.NS   81.19
+Name: 2025-04-07 00:00:00, dtype: float64",0.02684,Medium
+NHPC,"Ticker
+NHPC.NS   82.58
+Name: 2025-04-07 00:00:00, dtype: float64",0.02129,Medium
+GOCOLORS,"Ticker
+GOCOLORS.NS   684.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.01953,Medium
+BROOKS,"Ticker
+BROOKS.NS   112.93
+Name: 2025-04-07 00:00:00, dtype: float64",0.0388,High
+UNIENTER,"Ticker
+UNIENTER.NS   144.49
+Name: 2025-04-07 00:00:00, dtype: float64",0.02848,Medium
+TTKPRESTIG,"Ticker
+TTKPRESTIG.NS   622.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.01949,Medium
+KEI,"Ticker
+KEI.NS   2509.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.03416,High
+SWARAJENG,"Ticker
+SWARAJENG.NS   3662.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02907,Medium
+ZYDUSLIFE,"Ticker
+ZYDUSLIFE.NS   837.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.0156,Medium
+JINDALSTEL,"Ticker
+JINDALSTEL.NS   791.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.01993,Medium
+TATACONSUM,"Ticker
+TATACONSUM.NS   1047.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.01747,Medium
+MAXESTATES,"Ticker
+MAXESTATES.NS   376.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.03126,High
+LIBERTSHOE,"Ticker
+LIBERTSHOE.NS   304.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03379,High
+VLSFINANCE,"Ticker
+VLSFINANCE.NS   207.12
+Name: 2025-04-07 00:00:00, dtype: float64",0.02655,Medium
+ANURAS,"Ticker
+ANURAS.NS   708.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02017,Medium
+MALUPAPER,"Ticker
+MALUPAPER.NS   33.68
+Name: 2025-04-07 00:00:00, dtype: float64",0.03033,High
+DYCL,"Ticker
+DYCL.NS   521.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.04107,High
+TRIDENT,"Ticker
+TRIDENT.NS   25.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.023,Medium
+TREJHARA,"Ticker
+TREJHARA.NS   179.03
+Name: 2025-04-07 00:00:00, dtype: float64",0.03057,High
+BHARATRAS,"Ticker
+BHARATRAS.NS   9784.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.02586,Medium
+ECLERX,"Ticker
+ECLERX.NS   2496.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02449,Medium
+DEEPAKFERT,"Ticker
+DEEPAKFERT.NS   1094.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.03681,High
+EIFFL,"Ticker
+EIFFL.NS   176.82
+Name: 2025-04-07 00:00:00, dtype: float64",0.02041,Medium
+ADANIENSOL,"Ticker
+ADANIENSOL.NS   815.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.0413,High
+FOSECOIND,"Ticker
+FOSECOIND.NS   3343.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.0218,Medium
+KOPRAN,"Ticker
+KOPRAN.NS   174.51
+Name: 2025-04-07 00:00:00, dtype: float64",0.03577,High
+GEPIL,"Ticker
+GEPIL.NS   226.76
+Name: 2025-04-07 00:00:00, dtype: float64",0.03289,High
+INDSWFTLAB,"Ticker
+INDSWFTLAB.NS   83.12
+Name: 2025-04-07 00:00:00, dtype: float64",0.03127,High
+COCHINSHIP,"Ticker
+COCHINSHIP.NS   1338.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.02974,Medium
+INDBANK,"Ticker
+INDBANK.NS   28.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02967,Medium
+DAMODARIND,"Ticker
+DAMODARIND.NS   31.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02785,Medium
+NAGREEKCAP,"Ticker
+NAGREEKCAP.NS   26.44
+Name: 2025-04-07 00:00:00, dtype: float64",0.03289,High
+CHEVIOT,"Ticker
+CHEVIOT.NS   1006.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.01753,Medium
+BAJAJINDEF,"Ticker
+BAJAJINDEF.NS   237.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.03633,High
+FORTIS,"Ticker
+FORTIS.NS   633.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02308,Medium
+METROBRAND,"Ticker
+METROBRAND.NS   1041.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.01959,Medium
+CINEVISTA,"Ticker
+CINEVISTA.NS   14.14
+Name: 2025-04-07 00:00:00, dtype: float64",0.02973,Medium
+APOLLOTYRE,"Ticker
+APOLLOTYRE.NS   397.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.01793,Medium
+GANECOS,"Ticker
+GANECOS.NS   1469.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.03558,High
+BVCL,"Ticker
+BVCL.NS   36.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02904,Medium
+VIMTALABS,"Ticker
+VIMTALABS.NS   865.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.04478,High
+BAJAJCON,"Ticker
+BAJAJCON.NS   158.59
+Name: 2025-04-07 00:00:00, dtype: float64",0.02122,Medium
+SPECIALITY,"Ticker
+SPECIALITY.NS   134.36
+Name: 2025-04-07 00:00:00, dtype: float64",0.02919,Medium
+EQUIPPP,"Ticker
+EQUIPPP.NS   18.47
+Name: 2025-04-07 00:00:00, dtype: float64",0.02282,Medium
+BARBEQUE,"Ticker
+BARBEQUE.NS   257.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02617,Medium
+AMBER,"Ticker
+AMBER.NS   6151.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.04025,High
+UMANGDAIRY,"Ticker
+UMANGDAIRY.NS   73.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.03723,High
+STALLION,"Ticker
+STALLION.NS   67.87
+Name: 2025-04-07 00:00:00, dtype: float64",0.04963,High
+MADRASFERT,"Ticker
+MADRASFERT.NS   69.23
+Name: 2025-04-07 00:00:00, dtype: float64",0.02627,Medium
+SUMMITSEC,"Ticker
+SUMMITSEC.NS   1808.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.04009,High
+TIPSMUSIC,"Ticker
+TIPSMUSIC.NS   628.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02914,Medium
+ENDURANCE,"Ticker
+ENDURANCE.NS   1800.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.01766,Medium
+ABCAPITAL,"Ticker
+ABCAPITAL.NS   179.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.02109,Medium
+ELGIEQUIP,"Ticker
+ELGIEQUIP.NS   419.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.03045,High
+GALLANTT,"Ticker
+GALLANTT.NS   395.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02837,Medium
+CAPITALSFB,"Ticker
+CAPITALSFB.NS   265.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.01626,Medium
+IVC,"Ticker
+IVC.NS   8.91
+Name: 2025-04-07 00:00:00, dtype: float64",0.02346,Medium
+KICL,"Ticker
+KICL.NS   4098.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.03174,High
+ACL,"Ticker
+ACL.NS   53.11
+Name: 2025-04-07 00:00:00, dtype: float64",0.02571,Medium
+CAMLINFINE,"Ticker
+CAMLINFINE.NS   137.29
+Name: 2025-04-07 00:00:00, dtype: float64",0.03609,High
+ARCHIDPLY,"Ticker
+ARCHIDPLY.NS   85.48
+Name: 2025-04-07 00:00:00, dtype: float64",0.03425,High
+AVANTEL,"Ticker
+AVANTEL.NS   106.39
+Name: 2025-04-07 00:00:00, dtype: float64",0.03188,High
+PRSMJOHNSN,"Ticker
+PRSMJOHNSN.NS   124.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02506,Medium
+ALANKIT,"Ticker
+ALANKIT.NS   14.11
+Name: 2025-04-07 00:00:00, dtype: float64",0.03179,High
+KECL,"Ticker
+KECL.NS   123.89
+Name: 2025-04-07 00:00:00, dtype: float64",0.03593,High
+SOFTTECH,"Ticker
+SOFTTECH.NS   358.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.03208,High
+TPHQ,"Ticker
+TPHQ.NS   1.27
+Name: 2025-04-07 00:00:00, dtype: float64",0.03579,High
+BALPHARMA,"Ticker
+BALPHARMA.NS   110.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.0363,High
+JSWHL,"Ticker
+JSWHL.NS   24680.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.04338,High
+RACLGEAR,"Ticker
+RACLGEAR.NS   711.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.02796,Medium
+MAGNUM,"Ticker
+MAGNUM.NS   24.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.0384,High
+STLTECH,"Ticker
+STLTECH.NS   75.39
+Name: 2025-04-07 00:00:00, dtype: float64",0.02517,Medium
+GOKEX,"Ticker
+GOKEX.NS   792.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02877,Medium
+NARMADA,"Ticker
+NARMADA.NS   17.04
+Name: 2025-04-07 00:00:00, dtype: float64",0.02786,Medium
+SURYAROSNI,"Ticker
+SURYAROSNI.NS   240.73
+Name: 2025-04-07 00:00:00, dtype: float64",0.03563,High
+V2RETAIL,"Ticker
+V2RETAIL.NS   1713.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.03133,High
+HCLTECH,"Ticker
+HCLTECH.NS   1374.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.01662,Medium
+WOCKPHARMA,"Ticker
+WOCKPHARMA.NS   1213.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.0374,High
+GREENPANEL,"Ticker
+GREENPANEL.NS   218.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.02822,Medium
+ZFCVINDIA,"Ticker
+ZFCVINDIA.NS   12767.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02524,Medium
+PATANJALI,"Ticker
+PATANJALI.NS   1775.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.01628,Medium
+ADANIGREEN,"Ticker
+ADANIGREEN.NS   873.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.04175,High
+SHIVALIK,"Ticker
+SHIVALIK.NS   607.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03934,High
+SVPGLOB,"Ticker
+SVPGLOB.NS   2.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.03092,High
+NRBBEARING,"Ticker
+NRBBEARING.NS   204.36
+Name: 2025-04-07 00:00:00, dtype: float64",0.02614,Medium
+TICL,"Ticker
+TICL.NS   32.06
+Name: 2025-04-07 00:00:00, dtype: float64",0.0372,High
+RHL,"Ticker
+RHL.NS   222.58
+Name: 2025-04-07 00:00:00, dtype: float64",0.03089,High
+THOMASCOTT,"Ticker
+THOMASCOTT.NS   306.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03406,High
+HGS,"Ticker
+HGS.NS   454.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02299,Medium
+IDEAFORGE,"Ticker
+IDEAFORGE.NS   327.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03347,High
+SANGINITA,"Ticker
+SANGINITA.NS   11.18
+Name: 2025-04-07 00:00:00, dtype: float64",0.0403,High
+JYOTHYLAB,"Ticker
+JYOTHYLAB.NS   334.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.02207,Medium
+MMP,"Ticker
+MMP.NS   259.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.02868,Medium
+TIPSFILMS,"Ticker
+TIPSFILMS.NS   465.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.04253,High
+BHAGYANGR,"Ticker
+BHAGYANGR.NS   69.17
+Name: 2025-04-07 00:00:00, dtype: float64",0.02785,Medium
+TNPETRO,"Ticker
+TNPETRO.NS   68.93
+Name: 2025-04-07 00:00:00, dtype: float64",0.02094,Medium
+ITDC,"Ticker
+ITDC.NS   545.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.04,High
+UNIONBANK,"Ticker
+UNIONBANK.NS   117.93
+Name: 2025-04-07 00:00:00, dtype: float64",0.02385,Medium
+VINYLINDIA,"Ticker
+VINYLINDIA.NS   268.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03055,High
+BSE,"Ticker
+BSE.NS   5182.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.04145,High
+SBC,"Ticker
+SBC.NS   12.27
+Name: 2025-04-07 00:00:00, dtype: float64",0.02447,Medium
+20MICRONS,"Ticker
+20MICRONS.NS   190.01
+Name: 2025-04-07 00:00:00, dtype: float64",0.03157,High
+BFINVEST,"Ticker
+BFINVEST.NS   464.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.03237,High
+ELGIRUBCO,"Ticker
+ELGIRUBCO.NS   60.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.04248,High
+TIRUMALCHM,"Ticker
+TIRUMALCHM.NS   236.42
+Name: 2025-04-07 00:00:00, dtype: float64",0.0334,High
+WIPRO,"Ticker
+WIPRO.NS   242.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.01839,Medium
+USHAMART,"Ticker
+USHAMART.NS   300.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02955,Medium
+PREMEXPLN,"Ticker
+PREMEXPLN.NS   338.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.04066,High
+ICICIGI,"Ticker
+ICICIGI.NS   1744.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.01465,Low
+PEARLPOLY,"Ticker
+PEARLPOLY.NS   26.48
+Name: 2025-04-07 00:00:00, dtype: float64",0.03772,High
+SUZLON,"Ticker
+SUZLON.NS   52.12
+Name: 2025-04-07 00:00:00, dtype: float64",0.02919,Medium
+DHAMPURSUG,"Ticker
+DHAMPURSUG.NS   117.27
+Name: 2025-04-07 00:00:00, dtype: float64",0.02724,Medium
+GAYAHWS,"Ticker
+GAYAHWS.NS   1.38
+Name: 2025-04-07 00:00:00, dtype: float64",0.03109,High
+ASALCBR,"Ticker
+ASALCBR.NS   1095.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.04066,High
+AADHARHFC,"Ticker
+AADHARHFC.NS   430.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02318,Medium
+KOTAKBANK,"Ticker
+KOTAKBANK.NS   2037.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.01586,Medium
+TOKYOPLAST,"Ticker
+TOKYOPLAST.NS   120.96
+Name: 2025-04-07 00:00:00, dtype: float64",0.02497,Medium
+SAKUMA,"Ticker
+SAKUMA.NS   2.49
+Name: 2025-04-07 00:00:00, dtype: float64",0.02421,Medium
+JUNIPER,"Ticker
+JUNIPER.NS   251.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.02941,Medium
+GOLDENTOBC,"Ticker
+GOLDENTOBC.NS   35.02
+Name: 2025-04-07 00:00:00, dtype: float64",0.0287,Medium
+SUVENPHAR,"Ticker
+SUVENPHAR.NS   1053.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02301,Medium
+OSWALGREEN,"Ticker
+OSWALGREEN.NS   33.47
+Name: 2025-04-07 00:00:00, dtype: float64",0.03208,High
+SINTERCOM,"Ticker
+SINTERCOM.NS   115.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02977,Medium
+TTML,"Ticker
+TTML.NS   54.47
+Name: 2025-04-07 00:00:00, dtype: float64",0.03462,High
+CAMPUS,"Ticker
+CAMPUS.NS   233.17
+Name: 2025-04-07 00:00:00, dtype: float64",0.02565,Medium
+KAYNES,"Ticker
+KAYNES.NS   4439.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.03459,High
+ALPHAGEO,"Ticker
+ALPHAGEO.NS   230.68
+Name: 2025-04-07 00:00:00, dtype: float64",0.03691,High
+SOLARA,"Ticker
+SOLARA.NS   495.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03167,High
+SCHNEIDER,"Ticker
+SCHNEIDER.NS   588.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02779,Medium
+KOLTEPATIL,"Ticker
+KOLTEPATIL.NS   323.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.0261,Medium
+EIHAHOTELS,"Ticker
+EIHAHOTELS.NS   351.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.027,Medium
+SGL,"Ticker
+SGL.NS   11.16
+Name: 2025-04-07 00:00:00, dtype: float64",0.03895,High
+EXCEL,"Ticker
+EXCEL.NS   0.71
+Name: 2025-04-07 00:00:00, dtype: float64",0.03593,High
+HEXT,"Ticker
+HEXT.NS   655.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02038,Medium
+RBLBANK,"Ticker
+RBLBANK.NS   169.76
+Name: 2025-04-07 00:00:00, dtype: float64",0.02797,Medium
+SALSTEEL,"Ticker
+SALSTEEL.NS   17.44
+Name: 2025-04-07 00:00:00, dtype: float64",0.0376,High
+YATHARTH,"Ticker
+YATHARTH.NS   438.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02806,Medium
+RKDL,"Ticker
+RKDL.NS   25.24
+Name: 2025-04-07 00:00:00, dtype: float64",0.02925,Medium
+SUULD,"Ticker
+SUULD.NS   2.48
+Name: 2025-04-07 00:00:00, dtype: float64",0.03138,High
+NEWGEN,"Ticker
+NEWGEN.NS   842.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.04016,High
+ARVIND,"Ticker
+ARVIND.NS   317.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.03345,High
+CARBORUNIV,"Ticker
+CARBORUNIV.NS   951.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02028,Medium
+ARROWGREEN,"Ticker
+ARROWGREEN.NS   563.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03509,High
+MADHUCON,"Ticker
+MADHUCON.NS   5.98
+Name: 2025-04-07 00:00:00, dtype: float64",0.03005,High
+IGL,"Ticker
+IGL.NS   187.82
+Name: 2025-04-07 00:00:00, dtype: float64",0.03091,High
+MARATHON,"Ticker
+MARATHON.NS   451.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.03185,High
+ESSARSHPNG,"Ticker
+ESSARSHPNG.NS   23.52
+Name: 2025-04-07 00:00:00, dtype: float64",0.03173,High
+JIOFIN,"Ticker
+JIOFIN.NS   213.52
+Name: 2025-04-07 00:00:00, dtype: float64",0.02239,Medium
+SANGHIIND,"Ticker
+SANGHIIND.NS   58.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02265,Medium
+METROPOLIS,"Ticker
+METROPOLIS.NS   1488.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.0174,Medium
+QUESS,"Ticker
+QUESS.NS   629.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.0247,Medium
+IWEL,"Ticker
+IWEL.NS   8435.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.02879,Medium
+KALYANKJIL,"Ticker
+KALYANKJIL.NS   486.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.03575,High
+CANBK,"Ticker
+CANBK.NS   87.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.02171,Medium
+STEL,"Ticker
+STEL.NS   372.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.02987,Medium
+KARURVYSYA,"Ticker
+KARURVYSYA.NS   204.13
+Name: 2025-04-07 00:00:00, dtype: float64",0.02069,Medium
+VADILALIND,"Ticker
+VADILALIND.NS   5077.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.03396,High
+WESTLIFE,"Ticker
+WESTLIFE.NS   690.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.023,Medium
+KINGFA,"Ticker
+KINGFA.NS   2953.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02771,Medium
+UFO,"Ticker
+UFO.NS   63.61
+Name: 2025-04-07 00:00:00, dtype: float64",0.03305,High
+HCG,"Ticker
+HCG.NS   519.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02205,Medium
+AURIONPRO,"Ticker
+AURIONPRO.NS   1418.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.03855,High
+MHLXMIRU,"Ticker
+MHLXMIRU.NS   215.59
+Name: 2025-04-07 00:00:00, dtype: float64",0.04392,High
+GMMPFAUDLR,"Ticker
+GMMPFAUDLR.NS   1027.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.01688,Medium
+IRFC,"Ticker
+IRFC.NS   122.42
+Name: 2025-04-07 00:00:00, dtype: float64",0.02684,Medium
+EMIL,"Ticker
+EMIL.NS   113.27
+Name: 2025-04-07 00:00:00, dtype: float64",0.02847,Medium
+MRO-TEK,"Ticker
+MRO-TEK.NS   59.78
+Name: 2025-04-07 00:00:00, dtype: float64",0.03207,High
+ARIES,"Ticker
+ARIES.NS   244.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03366,High
+BLUECHIP,"Ticker
+BLUECHIP.NS   6.98
+Name: 2025-04-07 00:00:00, dtype: float64",0.019,Medium
+HPL,"Ticker
+HPL.NS   398.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.036,High
+VARDMNPOLY,"Ticker
+VARDMNPOLY.NS   9.36
+Name: 2025-04-07 00:00:00, dtype: float64",0.03283,High
+EMUDHRA,"Ticker
+EMUDHRA.NS   802.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.02833,Medium
+SBGLP,"Ticker
+SBGLP.NS   36.87
+Name: 2025-04-07 00:00:00, dtype: float64",0.04289,High
+STARCEMENT,"Ticker
+STARCEMENT.NS   216.23
+Name: 2025-04-07 00:00:00, dtype: float64",0.02712,Medium
+SAMPANN,"Ticker
+SAMPANN.NS   25.44
+Name: 2025-04-07 00:00:00, dtype: float64",0.03493,High
+ELECTCAST,"Ticker
+ELECTCAST.NS   90.07
+Name: 2025-04-07 00:00:00, dtype: float64",0.03249,High
+TITAN,"Ticker
+TITAN.NS   3022.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.01474,Low
+QUADFUTURE,"Ticker
+QUADFUTURE.NS   508.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.07421,High
+HEIDELBERG,"Ticker
+HEIDELBERG.NS   185.84
+Name: 2025-04-07 00:00:00, dtype: float64",0.01859,Medium
+CEATLTD,"Ticker
+CEATLTD.NS   2662.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.02366,Medium
+OBCL,"Ticker
+OBCL.NS   52.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.01413,Low
+TARC,"Ticker
+TARC.NS   143.18
+Name: 2025-04-07 00:00:00, dtype: float64",0.03306,High
+CREATIVEYE,"Ticker
+CREATIVEYE.NS   5.99
+Name: 2025-04-07 00:00:00, dtype: float64",0.03807,High
+SURAJEST,"Ticker
+SURAJEST.NS   284.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.03588,High
+CCL,"Ticker
+CCL.NS   556.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.02024,Medium
+CROWN,"Ticker
+CROWN.NS   171.19
+Name: 2025-04-07 00:00:00, dtype: float64",0.0313,High
+ABFRL,"Ticker
+ABFRL.NS   245.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.01987,Medium
+MAHASTEEL,"Ticker
+MAHASTEEL.NS   245.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02237,Medium
+ORIENTLTD,"Ticker
+ORIENTLTD.NS   84.37
+Name: 2025-04-07 00:00:00, dtype: float64",0.03824,High
+RELINFRA,"Ticker
+RELINFRA.NS   241.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.03299,High
+MOTOGENFIN,"Ticker
+MOTOGENFIN.NS   25.48
+Name: 2025-04-07 00:00:00, dtype: float64",0.02306,Medium
+PRITIKAUTO,"Ticker
+PRITIKAUTO.NS   15.42
+Name: 2025-04-07 00:00:00, dtype: float64",0.02955,Medium
+HPIL,"Ticker
+HPIL.NS   116.11
+Name: 2025-04-07 00:00:00, dtype: float64",0.03854,High
+MASFIN,"Ticker
+MASFIN.NS   245.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.01976,Medium
+PAISALO,"Ticker
+PAISALO.NS   30.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.02853,Medium
+PONNIERODE,"Ticker
+PONNIERODE.NS   298.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02501,Medium
+HBLENGINE,"Ticker
+HBLENGINE.NS   481.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.03746,High
+CARYSIL,"Ticker
+CARYSIL.NS   566.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03517,High
+VAKRANGEE,"Ticker
+VAKRANGEE.NS   10.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.04279,High
+PALASHSECU,"Ticker
+PALASHSECU.NS   116.87
+Name: 2025-04-07 00:00:00, dtype: float64",0.03572,High
+OSIAHYPER,"Ticker
+OSIAHYPER.NS   23.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.03067,High
+GLAXO,"Ticker
+GLAXO.NS   2574.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.02884,Medium
+SALZERELEC,"Ticker
+SALZERELEC.NS   980.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.04234,High
+LIBAS,"Ticker
+LIBAS.NS   11.47
+Name: 2025-04-07 00:00:00, dtype: float64",0.02752,Medium
+SAILIFE,"Ticker
+SAILIFE.NS   664.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02869,Medium
+UNITEDPOLY,"Ticker
+UNITEDPOLY.NS   150.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.02871,Medium
+JETFREIGHT,"Ticker
+JETFREIGHT.NS   11.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.032,High
+TATACOMM,"Ticker
+TATACOMM.NS   1549.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.01878,Medium
+TCIEXP,"Ticker
+TCIEXP.NS   623.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02159,Medium
+FMNL,"Ticker
+FMNL.NS   15.12
+Name: 2025-04-07 00:00:00, dtype: float64",0.02922,Medium
+CLEDUCATE,"Ticker
+CLEDUCATE.NS   75.28
+Name: 2025-04-07 00:00:00, dtype: float64",0.03814,High
+VALIANTORG,"Ticker
+VALIANTORG.NS   341.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.03225,High
+STEELCITY,"Ticker
+STEELCITY.NS   93.21
+Name: 2025-04-07 00:00:00, dtype: float64",0.03071,High
+DEEDEV,"Ticker
+DEEDEV.NS   230.27
+Name: 2025-04-07 00:00:00, dtype: float64",0.03921,High
+TECHM,"Ticker
+TECHM.NS   1288.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.01734,Medium
+LATENTVIEW,"Ticker
+LATENTVIEW.NS   352.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02372,Medium
+MAMATA,"Ticker
+MAMATA.NS   333.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.04669,High
+SETUINFRA,"Ticker
+SETUINFRA.NS   0.53
+Name: 2025-04-07 00:00:00, dtype: float64",0.03631,High
+GAIL,"Ticker
+GAIL.NS   169.03
+Name: 2025-04-07 00:00:00, dtype: float64",0.02102,Medium
+RUCHINFRA,"Ticker
+RUCHINFRA.NS   7.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.03484,High
+VINEETLAB,"Ticker
+VINEETLAB.NS   33.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.03622,High
+GODFRYPHLP,"Ticker
+GODFRYPHLP.NS   6345.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.04595,High
+EDELWEISS,"Ticker
+EDELWEISS.NS   78.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.03374,High
+HINDWAREAP,"Ticker
+HINDWAREAP.NS   190.66
+Name: 2025-04-07 00:00:00, dtype: float64",0.03379,High
+PETRONET,"Ticker
+PETRONET.NS   275.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.0194,Medium
+S&SPOWER,"Ticker
+S&SPOWER.NS   378.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03617,High
+JTLIND,"Ticker
+JTLIND.NS   68.09
+Name: 2025-04-07 00:00:00, dtype: float64",0.02951,Medium
+ANIKINDS,"Ticker
+ANIKINDS.NS   117.97
+Name: 2025-04-07 00:00:00, dtype: float64",0.03486,High
+RAIN,"Ticker
+RAIN.NS   133.47
+Name: 2025-04-07 00:00:00, dtype: float64",0.02466,Medium
+SMLT,"Ticker
+SMLT.NS   109.87
+Name: 2025-04-07 00:00:00, dtype: float64",0.03746,High
+BANG,"Ticker
+BANG.NS   43.73
+Name: 2025-04-07 00:00:00, dtype: float64",0.04233,High
+RCOM,"Ticker
+RCOM.NS   1.59
+Name: 2025-04-07 00:00:00, dtype: float64",0.02789,Medium
+MGEL,"Ticker
+MGEL.NS   12.57
+Name: 2025-04-07 00:00:00, dtype: float64",0.03925,High
+COFORGE,"Ticker
+COFORGE.NS   6340.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.02676,Medium
+AROGRANITE,"Ticker
+AROGRANITE.NS   34.64
+Name: 2025-04-07 00:00:00, dtype: float64",0.02785,Medium
+WELCORP,"Ticker
+WELCORP.NS   792.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.0268,Medium
+KSHITIJPOL,"Ticker
+KSHITIJPOL.NS   3.09
+Name: 2025-04-07 00:00:00, dtype: float64",0.03141,High
+IMAGICAA,"Ticker
+IMAGICAA.NS   63.54
+Name: 2025-04-07 00:00:00, dtype: float64",0.02741,Medium
+KPEL,"Ticker
+KPEL.NS   376.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.03567,High
+TAKE,"Ticker
+TAKE.NS   7.96
+Name: 2025-04-07 00:00:00, dtype: float64",0.03384,High
+INTELLECT,"Ticker
+INTELLECT.NS   624.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.03362,High
+SHYAMCENT,"Ticker
+SHYAMCENT.NS   8.17
+Name: 2025-04-07 00:00:00, dtype: float64",0.02594,Medium
+SKYGOLD,"Ticker
+SKYGOLD.NS   311.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.03519,High
+ADSL,"Ticker
+ADSL.NS   173.88
+Name: 2025-04-07 00:00:00, dtype: float64",0.03745,High
+BOHRAIND,"Ticker
+BOHRAIND.NS   34.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.02013,Medium
+STARPAPER,"Ticker
+STARPAPER.NS   154.77
+Name: 2025-04-07 00:00:00, dtype: float64",0.02494,Medium
+KEYFINSERV,"Ticker
+KEYFINSERV.NS   304.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.05216,High
+TOTAL,"Ticker
+TOTAL.NS   69.66
+Name: 2025-04-07 00:00:00, dtype: float64",0.03416,High
+MGL,"Ticker
+MGL.NS   1305.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02667,Medium
+STANLEY,"Ticker
+STANLEY.NS   305.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.02782,Medium
+MENONBE,"Ticker
+MENONBE.NS   89.32
+Name: 2025-04-07 00:00:00, dtype: float64",0.02191,Medium
+DENORA,"Ticker
+DENORA.NS   713.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.03332,High
+ALPA,"Ticker
+ALPA.NS   103.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.02911,Medium
+KIRLPNU,"Ticker
+KIRLPNU.NS   1091.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.03793,High
+KELLTONTEC,"Ticker
+KELLTONTEC.NS   103.27
+Name: 2025-04-07 00:00:00, dtype: float64",0.03818,High
+NDL,"Ticker
+NDL.NS   3.61
+Name: 2025-04-07 00:00:00, dtype: float64",0.03709,High
+MCX,"Ticker
+MCX.NS   4989.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02653,Medium
+YAARI,"Ticker
+YAARI.NS   16.36
+Name: 2025-04-07 00:00:00, dtype: float64",0.03643,High
+PODDARMENT,"Ticker
+PODDARMENT.NS   287.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02332,Medium
+SOBHA,"Ticker
+SOBHA.NS   1094.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02591,Medium
+GTL,"Ticker
+GTL.NS   7.91
+Name: 2025-04-07 00:00:00, dtype: float64",0.03928,High
+ALEMBICLTD,"Ticker
+ALEMBICLTD.NS   96.87
+Name: 2025-04-07 00:00:00, dtype: float64",0.02901,Medium
+BOSCHLTD,"Ticker
+BOSCHLTD.NS   26588.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.01525,Medium
+SIGMA,"Ticker
+SIGMA.NS   234.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.0318,High
+DHARMAJ,"Ticker
+DHARMAJ.NS   189.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.035,High
+SIS,"Ticker
+SIS.NS   329.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02131,Medium
+TCPLPACK,"Ticker
+TCPLPACK.NS   3972.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.03281,High
+BAJAJHIND,"Ticker
+BAJAJHIND.NS   17.51
+Name: 2025-04-07 00:00:00, dtype: float64",0.03009,High
+JPPOWER,"Ticker
+JPPOWER.NS   14.18
+Name: 2025-04-07 00:00:00, dtype: float64",0.03199,High
+PANACEABIO,"Ticker
+PANACEABIO.NS   441.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.03862,High
+HSCL,"Ticker
+HSCL.NS   412.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02739,Medium
+MACPOWER,"Ticker
+MACPOWER.NS   785.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.04183,High
+SHAHALLOYS,"Ticker
+SHAHALLOYS.NS   54.08
+Name: 2025-04-07 00:00:00, dtype: float64",0.03787,High
+LTF,"Ticker
+LTF.NS   148.57
+Name: 2025-04-07 00:00:00, dtype: float64",0.02102,Medium
+HAVELLS,"Ticker
+HAVELLS.NS   1456.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.01833,Medium
+MUNJALAU,"Ticker
+MUNJALAU.NS   63.46
+Name: 2025-04-07 00:00:00, dtype: float64",0.02939,Medium
+IFGLEXPOR,"Ticker
+IFGLEXPOR.NS   348.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02936,Medium
+ARSHIYA,"Ticker
+ARSHIYA.NS   2.63
+Name: 2025-04-07 00:00:00, dtype: float64",0.03164,High
+HINDOILEXP,"Ticker
+HINDOILEXP.NS   162.38
+Name: 2025-04-07 00:00:00, dtype: float64",0.02641,Medium
+DOMS,"Ticker
+DOMS.NS   2636.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02936,Medium
+INCREDIBLE,"Ticker
+INCREDIBLE.NS   32.76
+Name: 2025-04-07 00:00:00, dtype: float64",0.0399,High
+AEROFLEX,"Ticker
+AEROFLEX.NS   166.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.04148,High
+HTMEDIA,"Ticker
+HTMEDIA.NS   16.04
+Name: 2025-04-07 00:00:00, dtype: float64",0.03002,High
+AARVI,"Ticker
+AARVI.NS   101.52
+Name: 2025-04-07 00:00:00, dtype: float64",0.02322,Medium
+BALAJEE,"Ticker
+BALAJEE.NS   44.62
+Name: 2025-04-07 00:00:00, dtype: float64",0.02809,Medium
+LAL,"Ticker
+LAL.NS   10.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.02787,Medium
+IRCTC,"Ticker
+IRCTC.NS   697.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.01723,Medium
+ROLTA,"Ticker
+ROLTA.NS   2.31
+Name: 2025-04-07 00:00:00, dtype: float64",0.03186,High
+HIMATSEIDE,"Ticker
+HIMATSEIDE.NS   136.04
+Name: 2025-04-07 00:00:00, dtype: float64",0.03825,High
+ICICIPRULI,"Ticker
+ICICIPRULI.NS   536.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.01445,Low
+PANSARI,"Ticker
+PANSARI.NS   152.73
+Name: 2025-04-07 00:00:00, dtype: float64",0.0359,High
+PRITI,"Ticker
+PRITI.NS   83.28
+Name: 2025-04-07 00:00:00, dtype: float64",0.03363,High
+21STCENMGM,"Ticker
+21STCENMGM.NS   70.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.01733,Medium
+MARUTI,"Ticker
+MARUTI.NS   11329.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.01363,Low
+TRITURBINE,"Ticker
+TRITURBINE.NS   493.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03892,High
+SETCO,"Ticker
+SETCO.NS   18.49
+Name: 2025-04-07 00:00:00, dtype: float64",0.03591,High
+PFS,"Ticker
+PFS.NS   30.36
+Name: 2025-04-07 00:00:00, dtype: float64",0.02735,Medium
+KRONOX,"Ticker
+KRONOX.NS   136.91
+Name: 2025-04-07 00:00:00, dtype: float64",0.03256,High
+RADICO,"Ticker
+RADICO.NS   2248.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.02506,Medium
+SANSERA,"Ticker
+SANSERA.NS   1051.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.02364,Medium
+KBCGLOBAL,"Ticker
+KBCGLOBAL.NS   0.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.05149,High
+TOUCHWOOD,"Ticker
+TOUCHWOOD.NS   75.99
+Name: 2025-04-07 00:00:00, dtype: float64",0.03788,High
+M&MFIN,"Ticker
+M&MFIN.NS   252.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.01956,Medium
+SKMEGGPROD,"Ticker
+SKMEGGPROD.NS   179.63
+Name: 2025-04-07 00:00:00, dtype: float64",0.02881,Medium
+HYUNDAI,"Ticker
+HYUNDAI.NS   1583.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.01917,Medium
+MOKSH,"Ticker
+MOKSH.NS   13.37
+Name: 2025-04-07 00:00:00, dtype: float64",0.04299,High
+BLUESTARCO,"Ticker
+BLUESTARCO.NS   1962.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02825,Medium
+BHARATGEAR,"Ticker
+BHARATGEAR.NS   66.56
+Name: 2025-04-07 00:00:00, dtype: float64",0.02298,Medium
+PITTIENG,"Ticker
+PITTIENG.NS   965.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.02704,Medium
+ASHOKAMET,"Ticker
+ASHOKAMET.NS   17.01
+Name: 2025-04-07 00:00:00, dtype: float64",0.03972,High
+KRITIKA,"Ticker
+KRITIKA.NS   8.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.02861,Medium
+HIKAL,"Ticker
+HIKAL.NS   390.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02747,Medium
+DELTAMAGNT,"Ticker
+DELTAMAGNT.NS   58.71
+Name: 2025-04-07 00:00:00, dtype: float64",0.03857,High
+SRGHFL,"Ticker
+SRGHFL.NS   320.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.03217,High
+SMLISUZU,"Ticker
+SMLISUZU.NS   1567.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.0348,High
+TI,"Ticker
+TI.NS   229.08
+Name: 2025-04-07 00:00:00, dtype: float64",0.03933,High
+BPL,"Ticker
+BPL.NS   66.69
+Name: 2025-04-07 00:00:00, dtype: float64",0.03334,High
+KAVVERITEL,"Ticker
+KAVVERITEL.NS   48.24
+Name: 2025-04-07 00:00:00, dtype: float64",0.03147,High
+BALAJITELE,"Ticker
+BALAJITELE.NS   67.42
+Name: 2025-04-07 00:00:00, dtype: float64",0.03496,High
+IDBI,"Ticker
+IDBI.NS   73.54
+Name: 2025-04-07 00:00:00, dtype: float64",0.02965,Medium
+GEOJITFSL,"Ticker
+GEOJITFSL.NS   67.89
+Name: 2025-04-07 00:00:00, dtype: float64",0.03682,High
+MUKKA,"Ticker
+MUKKA.NS   30.91
+Name: 2025-04-07 00:00:00, dtype: float64",0.02673,Medium
+TARMAT,"Ticker
+TARMAT.NS   50.66
+Name: 2025-04-07 00:00:00, dtype: float64",0.02731,Medium
+RAJTV,"Ticker
+RAJTV.NS   78.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02129,Medium
+SHREDIGCEM,"Ticker
+SHREDIGCEM.NS   70.08
+Name: 2025-04-07 00:00:00, dtype: float64",0.0208,Medium
+SADBHAV,"Ticker
+SADBHAV.NS   11.16
+Name: 2025-04-07 00:00:00, dtype: float64",0.03081,High
+SARDAEN,"Ticker
+SARDAEN.NS   455.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.02834,Medium
+KAMDHENU,"Ticker
+KAMDHENU.NS   26.38
+Name: 2025-04-07 00:00:00, dtype: float64",0.03881,High
+BHARATSE,"Ticker
+BHARATSE.NS   72.76
+Name: 2025-04-07 00:00:00, dtype: float64",0.03303,High
+HINDCOPPER,"Ticker
+HINDCOPPER.NS   188.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.02753,Medium
+SAURASHCEM,"Ticker
+SAURASHCEM.NS   81.64
+Name: 2025-04-07 00:00:00, dtype: float64",0.03616,High
+BEDMUTHA,"Ticker
+BEDMUTHA.NS   157.98
+Name: 2025-04-07 00:00:00, dtype: float64",0.0338,High
+JUBLPHARMA,"Ticker
+JUBLPHARMA.NS   883.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02891,Medium
+DYNAMATECH,"Ticker
+DYNAMATECH.NS   5887.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.02659,Medium
+ANDHRAPAP,"Ticker
+ANDHRAPAP.NS   69.14
+Name: 2025-04-07 00:00:00, dtype: float64",0.02195,Medium
+SELAN,"Ticker
+SELAN.NS   543.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.03514,High
+DIACABS,"Ticker
+DIACABS.NS   88.61
+Name: 2025-04-07 00:00:00, dtype: float64",0.03706,High
+CENTEXT,"Ticker
+CENTEXT.NS   18.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.03455,High
+EIDPARRY,"Ticker
+EIDPARRY.NS   738.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.02343,Medium
+SINDHUTRAD,"Ticker
+SINDHUTRAD.NS   17.54
+Name: 2025-04-07 00:00:00, dtype: float64",0.05083,High
+NBCC,"Ticker
+NBCC.NS   79.46
+Name: 2025-04-07 00:00:00, dtype: float64",0.02916,Medium
+EUROTEXIND,"Ticker
+EUROTEXIND.NS   13.51
+Name: 2025-04-07 00:00:00, dtype: float64",0.0335,High
+FORCEMOT,"Ticker
+FORCEMOT.NS   8345.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.03282,High
+DCAL,"Ticker
+DCAL.NS   191.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.03884,High
+BRITANNIA,"Ticker
+BRITANNIA.NS   5055.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.01433,Low
+JAICORPLTD,"Ticker
+JAICORPLTD.NS   86.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.04195,High
+MARALOVER,"Ticker
+MARALOVER.NS   64.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.04064,High
+LANDMARK,"Ticker
+LANDMARK.NS   386.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02629,Medium
+DISHTV,"Ticker
+DISHTV.NS   5.47
+Name: 2025-04-07 00:00:00, dtype: float64",0.02791,Medium
+PRAKASH,"Ticker
+PRAKASH.NS   157.93
+Name: 2025-04-07 00:00:00, dtype: float64",0.02803,Medium
+GOYALALUM,"Ticker
+GOYALALUM.NS   8.07
+Name: 2025-04-07 00:00:00, dtype: float64",0.0277,Medium
+CUMMINSIND,"Ticker
+CUMMINSIND.NS   2711.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02261,Medium
+GATECHDVR,"Ticker
+GATECHDVR.NS   0.86
+Name: 2025-04-07 00:00:00, dtype: float64",0.02413,Medium
+WEIZMANIND,"Ticker
+WEIZMANIND.NS   105.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.03168,High
+IOC,"Ticker
+IOC.NS   128.09
+Name: 2025-04-07 00:00:00, dtype: float64",0.01801,Medium
+DEEPAKNTR,"Ticker
+DEEPAKNTR.NS   1823.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.02418,Medium
+VETO,"Ticker
+VETO.NS   103.64
+Name: 2025-04-07 00:00:00, dtype: float64",0.02963,Medium
+GPTHEALTH,"Ticker
+GPTHEALTH.NS   166.92
+Name: 2025-04-07 00:00:00, dtype: float64",0.02299,Medium
+PCBL,"Ticker
+PCBL.NS   392.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.02973,Medium
+COASTCORP,"Ticker
+COASTCORP.NS   34.49
+Name: 2025-04-07 00:00:00, dtype: float64",0.03553,High
+AZAD,"Ticker
+AZAD.NS   1218.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.03486,High
+KEEPLEARN,"Ticker
+KEEPLEARN.NS   2.99
+Name: 2025-04-07 00:00:00, dtype: float64",0.03117,High
+MATRIMONY,"Ticker
+MATRIMONY.NS   504.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02356,Medium
+INDOUS,"Ticker
+INDOUS.NS   155.72
+Name: 2025-04-07 00:00:00, dtype: float64",0.04693,High
+FUSION,"Ticker
+FUSION.NS   132.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.03376,High
+JKPAPER,"Ticker
+JKPAPER.NS   310.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.0245,Medium
+SHALPAINTS,"Ticker
+SHALPAINTS.NS   93.91
+Name: 2025-04-07 00:00:00, dtype: float64",0.03206,High
+NCLIND,"Ticker
+NCLIND.NS   190.51
+Name: 2025-04-07 00:00:00, dtype: float64",0.02304,Medium
+GRINFRA,"Ticker
+GRINFRA.NS   1005.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02137,Medium
+BODALCHEM,"Ticker
+BODALCHEM.NS   60.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02738,Medium
+ASTERDM,"Ticker
+ASTERDM.NS   475.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.02103,Medium
+KABRAEXTRU,"Ticker
+KABRAEXTRU.NS   263.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.03352,High
+MINDACORP,"Ticker
+MINDACORP.NS   481.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.0249,Medium
+MPHASIS,"Ticker
+MPHASIS.NS   2102.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02189,Medium
+WEWIN,"Ticker
+WEWIN.NS   39.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.03955,High
+NDRAUTO,"Ticker
+NDRAUTO.NS   644.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.03568,High
+WINDMACHIN,"Ticker
+WINDMACHIN.NS   290.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.03758,High
+GFSTEELS,"Ticker
+GFSTEELS.NS   8.42
+Name: 2025-04-07 00:00:00, dtype: float64",0.01026,Low
+GOACARBON,"Ticker
+GOACARBON.NS   430.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.02968,Medium
+CEIGALL,"Ticker
+CEIGALL.NS   247.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02434,Medium
+WONDERLA,"Ticker
+WONDERLA.NS   630.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.02339,Medium
+BIRLACABLE,"Ticker
+BIRLACABLE.NS   141.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03276,High
+UNIPARTS,"Ticker
+UNIPARTS.NS   304.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.01941,Medium
+RESPONIND,"Ticker
+RESPONIND.NS   182.13
+Name: 2025-04-07 00:00:00, dtype: float64",0.02484,Medium
+GTECJAINX,"Ticker
+GTECJAINX.NS   30.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.03031,High
+VIDHIING,"Ticker
+VIDHIING.NS   401.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.03128,High
+RADIOCITY,"Ticker
+RADIOCITY.NS   9.19
+Name: 2025-04-07 00:00:00, dtype: float64",0.02157,Medium
+DYNPRO,"Ticker
+DYNPRO.NS   265.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02878,Medium
+PAR,"Ticker
+PAR.NS   94.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.0483,High
+KRYSTAL,"Ticker
+KRYSTAL.NS   442.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.03072,High
+EMBDL,"Ticker
+EMBDL.NS   98.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.04139,High
+HINDZINC,"Ticker
+HINDZINC.NS   406.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02411,Medium
+NORTHARC,"Ticker
+NORTHARC.NS   173.33
+Name: 2025-04-07 00:00:00, dtype: float64",0.02382,Medium
+SCHAEFFLER,"Ticker
+SCHAEFFLER.NS   2994.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.02003,Medium
+THEMISMED,"Ticker
+THEMISMED.NS   120.32
+Name: 2025-04-07 00:00:00, dtype: float64",0.03554,High
+IKS,"Ticker
+IKS.NS   1349.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.03725,High
+ASHOKLEY,"Ticker
+ASHOKLEY.NS   197.59
+Name: 2025-04-07 00:00:00, dtype: float64",0.02075,Medium
+AIROLAM,"Ticker
+AIROLAM.NS   90.74
+Name: 2025-04-07 00:00:00, dtype: float64",0.03397,High
+BHARTIHEXA,"Ticker
+BHARTIHEXA.NS   1400.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.02734,Medium
+SUMICHEM,"Ticker
+SUMICHEM.NS   538.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02394,Medium
+RUPA,"Ticker
+RUPA.NS   179.87
+Name: 2025-04-07 00:00:00, dtype: float64",0.0224,Medium
+OMKARCHEM,"Ticker
+OMKARCHEM.NS   6.07
+Name: 2025-04-07 00:00:00, dtype: float64",0.02932,Medium
+IRISDOREME,"Ticker
+IRISDOREME.NS   43.03
+Name: 2025-04-07 00:00:00, dtype: float64",0.02398,Medium
+THYROCARE,"Ticker
+THYROCARE.NS   682.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02617,Medium
+SHRIRAMPPS,"Ticker
+SHRIRAMPPS.NS   66.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.03046,High
+GANDHITUBE,"Ticker
+GANDHITUBE.NS   629.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.03044,High
+TNPL,"Ticker
+TNPL.NS   120.69
+Name: 2025-04-07 00:00:00, dtype: float64",0.02709,Medium
+NILAINFRA,"Ticker
+NILAINFRA.NS   8.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03559,High
+HITECHGEAR,"Ticker
+HITECHGEAR.NS   576.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.02358,Medium
+RAMCOCEM,"Ticker
+RAMCOCEM.NS   921.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.01721,Medium
+PANACHE,"Ticker
+PANACHE.NS   269.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.02746,Medium
+LUMAXIND,"Ticker
+LUMAXIND.NS   2393.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02074,Medium
+ALKEM,"Ticker
+ALKEM.NS   4700.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.01568,Medium
+AMBUJACEM,"Ticker
+AMBUJACEM.NS   525.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02066,Medium
+GPIL,"Ticker
+GPIL.NS   180.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.0295,Medium
+VISHNU,"Ticker
+VISHNU.NS   375.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03042,High
+ATUL,"Ticker
+ATUL.NS   5166.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.01982,Medium
+SADHNANIQ,"Ticker
+SADHNANIQ.NS   19.44
+Name: 2025-04-07 00:00:00, dtype: float64",0.03795,High
+AHLUCONT,"Ticker
+AHLUCONT.NS   798.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02317,Medium
+BFUTILITIE,"Ticker
+BFUTILITIE.NS   708.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.03882,High
+ENIL,"Ticker
+ENIL.NS   126.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.0251,Medium
+LLOYDSENT,"Ticker
+LLOYDSENT.NS   46.04
+Name: 2025-04-07 00:00:00, dtype: float64",0.03858,High
+JINDALSAW,"Ticker
+JINDALSAW.NS   233.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.03281,High
+VEDL,"Ticker
+VEDL.NS   374.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02239,Medium
+GMDCLTD,"Ticker
+GMDCLTD.NS   261.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.0306,High
+SHALBY,"Ticker
+SHALBY.NS   186.98
+Name: 2025-04-07 00:00:00, dtype: float64",0.02507,Medium
+WSI,"Ticker
+WSI.NS   68.36
+Name: 2025-04-07 00:00:00, dtype: float64",0.03444,High
+OSWALSEEDS,"Ticker
+OSWALSEEDS.NS   13.79
+Name: 2025-04-07 00:00:00, dtype: float64",0.02593,Medium
+SPANDANA,"Ticker
+SPANDANA.NS   227.66
+Name: 2025-04-07 00:00:00, dtype: float64",0.04206,High
+JKLAKSHMI,"Ticker
+JKLAKSHMI.NS   785.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02041,Medium
+INNOVANA,"Ticker
+INNOVANA.NS   312.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.04384,High
+WHEELS,"Ticker
+WHEELS.NS   587.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.02316,Medium
+BAJAJFINSV,"Ticker
+BAJAJFINSV.NS   1852.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.01694,Medium
+SIGNATURE,"Ticker
+SIGNATURE.NS   1053.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02313,Medium
+GSS,"Ticker
+GSS.NS   35.44
+Name: 2025-04-07 00:00:00, dtype: float64",0.03584,High
+SHARDACROP,"Ticker
+SHARDACROP.NS   480.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03639,High
+SATINDLTD,"Ticker
+SATINDLTD.NS   80.87
+Name: 2025-04-07 00:00:00, dtype: float64",0.03533,High
+BLUEJET,"Ticker
+BLUEJET.NS   655.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03256,High
+ATLANTAA,"Ticker
+ATLANTAA.NS   29.08
+Name: 2025-04-07 00:00:00, dtype: float64",0.02925,Medium
+FELDVR,"Ticker
+FELDVR.NS   3.59
+Name: 2025-04-07 00:00:00, dtype: float64",0.0293,Medium
+VINDHYATEL,"Ticker
+VINDHYATEL.NS   1242.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.02487,Medium
+PARSVNATH,"Ticker
+PARSVNATH.NS   20.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.0271,Medium
+GLOBE,"Ticker
+GLOBE.NS   2.74
+Name: 2025-04-07 00:00:00, dtype: float64",0.0432,High
+PNBGILTS,"Ticker
+PNBGILTS.NS   87.39
+Name: 2025-04-07 00:00:00, dtype: float64",0.02611,Medium
+GODHA,"Ticker
+GODHA.NS   0.73
+Name: 2025-04-07 00:00:00, dtype: float64",0.03105,High
+MOTILALOFS,"Ticker
+MOTILALOFS.NS   565.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.03641,High
+SONACOMS,"Ticker
+SONACOMS.NS   406.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02323,Medium
+USK,"Ticker
+USK.NS   36.58
+Name: 2025-04-07 00:00:00, dtype: float64",0.03841,High
+DEEPINDS,"Ticker
+DEEPINDS.NS   428.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.03592,High
+DCMFINSERV,"Ticker
+DCMFINSERV.NS   5.74
+Name: 2025-04-07 00:00:00, dtype: float64",0.02666,Medium
+SPARC,"Ticker
+SPARC.NS   142.58
+Name: 2025-04-07 00:00:00, dtype: float64",0.03204,High
+MOLDTECH,"Ticker
+MOLDTECH.NS   141.88
+Name: 2025-04-07 00:00:00, dtype: float64",0.02839,Medium
+WORTH,"Ticker
+WORTH.NS   142.74
+Name: 2025-04-07 00:00:00, dtype: float64",0.04056,High
+ORIENTCER,"Ticker
+ORIENTCER.NS   30.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.03614,High
+NAUKRI,"Ticker
+NAUKRI.NS   6374.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.02376,Medium
+JAYNECOIND,"Ticker
+JAYNECOIND.NS   30.73
+Name: 2025-04-07 00:00:00, dtype: float64",0.03178,High
+JSWINFRA,"Ticker
+JSWINFRA.NS   286.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.02725,Medium
+RML,"Ticker
+RML.NS   617.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.0273,Medium
+AVTNPL,"Ticker
+AVTNPL.NS   54.42
+Name: 2025-04-07 00:00:00, dtype: float64",0.02189,Medium
+DABUR,"Ticker
+DABUR.NS   451.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.01289,Low
+JAIBALAJI,"Ticker
+JAIBALAJI.NS   124.61
+Name: 2025-04-07 00:00:00, dtype: float64",0.03188,High
+NECCLTD,"Ticker
+NECCLTD.NS   22.32
+Name: 2025-04-07 00:00:00, dtype: float64",0.03693,High
+KHAITANLTD,"Ticker
+KHAITANLTD.NS   85.72
+Name: 2025-04-07 00:00:00, dtype: float64",0.0331,High
+NDLVENTURE,"Ticker
+NDLVENTURE.NS   59.98
+Name: 2025-04-07 00:00:00, dtype: float64",0.03225,High
+GSLSU,"Ticker
+GSLSU.NS   100.59
+Name: 2025-04-07 00:00:00, dtype: float64",0.03327,High
+RENUKA,"Ticker
+RENUKA.NS   26.41
+Name: 2025-04-07 00:00:00, dtype: float64",0.02671,Medium
+VPRPL,"Ticker
+VPRPL.NS   157.04
+Name: 2025-04-07 00:00:00, dtype: float64",0.03518,High
+BOMDYEING,"Ticker
+BOMDYEING.NS   124.42
+Name: 2025-04-07 00:00:00, dtype: float64",0.02987,Medium
+KUANTUM,"Ticker
+KUANTUM.NS   100.23
+Name: 2025-04-07 00:00:00, dtype: float64",0.02921,Medium
+STOVEKRAFT,"Ticker
+STOVEKRAFT.NS   687.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.03325,High
+INFOMEDIA,"Ticker
+INFOMEDIA.NS   6.26
+Name: 2025-04-07 00:00:00, dtype: float64",0.03066,High
+RPPL,"Ticker
+RPPL.NS   21.16
+Name: 2025-04-07 00:00:00, dtype: float64",0.03911,High
+ESABINDIA,"Ticker
+ESABINDIA.NS   4353.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.01928,Medium
+HEXATRADEX,"Ticker
+HEXATRADEX.NS   186.71
+Name: 2025-04-07 00:00:00, dtype: float64",0.03317,High
+JINDALPHOT,"Ticker
+JINDALPHOT.NS   704.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.0327,High
+SHRIPISTON,"Ticker
+SHRIPISTON.NS   1729.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02534,Medium
+VTL,"Ticker
+VTL.NS   453.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.02824,Medium
+WSTCSTPAPR,"Ticker
+WSTCSTPAPR.NS   402.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02473,Medium
+ICICIBANK,"Ticker
+ICICIBANK.NS   1287.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.01172,Low
+CYBERMEDIA,"Ticker
+CYBERMEDIA.NS   13.76
+Name: 2025-04-07 00:00:00, dtype: float64",0.04026,High
+ANANTRAJ,"Ticker
+ANANTRAJ.NS   416.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.04339,High
+RPGLIFE,"Ticker
+RPGLIFE.NS   1993.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.03274,High
+AGI,"Ticker
+AGI.NS   734.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.03855,High
+INDOWIND,"Ticker
+INDOWIND.NS   16.06
+Name: 2025-04-07 00:00:00, dtype: float64",0.03599,High
+VHL,"Ticker
+VHL.NS   3490.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.03917,High
+GANDHAR,"Ticker
+GANDHAR.NS   136.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02492,Medium
+GENCON,"Ticker
+GENCON.NS   28.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.04299,High
+ABDL,"Ticker
+ABDL.NS   306.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.0254,Medium
+GLFL,"Ticker
+GLFL.NS   5.24
+Name: 2025-04-07 00:00:00, dtype: float64",0.03098,High
+CPCAP,"Ticker
+CPCAP.NS   400.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02129,Medium
+SCPL,"Ticker
+SCPL.NS   306.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.02565,Medium
+OCCLLTD,"Ticker
+OCCLLTD.NS   78.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.04336,High
+SMSLIFE,"Ticker
+SMSLIFE.NS   1112.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.03219,High
+RBL,"Ticker
+RBL.NS   685.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02254,Medium
+NEXTMEDIA,"Ticker
+NEXTMEDIA.NS   6.98
+Name: 2025-04-07 00:00:00, dtype: float64",0.03834,High
+MAITHANALL,"Ticker
+MAITHANALL.NS   850.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.02222,Medium
+EIHOTEL,"Ticker
+EIHOTEL.NS   351.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02402,Medium
+GLOBAL,"Ticker
+GLOBAL.NS   42.61
+Name: 2025-04-07 00:00:00, dtype: float64",0.03386,High
+KOHINOOR,"Ticker
+KOHINOOR.NS   30.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03263,High
+MUTHOOTMF,"Ticker
+MUTHOOTMF.NS   127.78
+Name: 2025-04-07 00:00:00, dtype: float64",0.01981,Medium
+PFIZER,"Ticker
+PFIZER.NS   3913.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.01746,Medium
+SHARDAMOTR,"Ticker
+SHARDAMOTR.NS   1456.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.03123,High
+CCHHL,"Ticker
+CCHHL.NS   15.94
+Name: 2025-04-07 00:00:00, dtype: float64",0.03514,High
+OFSS,"Ticker
+OFSS.NS   7294.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02305,Medium
+GAEL,"Ticker
+GAEL.NS   115.82
+Name: 2025-04-07 00:00:00, dtype: float64",0.02644,Medium
+CIPLA,"Ticker
+CIPLA.NS   1384.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.01675,Medium
+FEDFINA,"Ticker
+FEDFINA.NS   86.01
+Name: 2025-04-07 00:00:00, dtype: float64",0.02154,Medium
+WALCHANNAG,"Ticker
+WALCHANNAG.NS   157.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.04135,High
+HITECHCORP,"Ticker
+HITECHCORP.NS   176.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.03692,High
+MANGLMCEM,"Ticker
+MANGLMCEM.NS   780.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.02339,Medium
+GFLLIMITED,"Ticker
+GFLLIMITED.NS   51.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.03698,High
+INDNIPPON,"Ticker
+INDNIPPON.NS   582.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.02119,Medium
+LALPATHLAB,"Ticker
+LALPATHLAB.NS   2463.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.01868,Medium
+ARVINDFASN,"Ticker
+ARVINDFASN.NS   366.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02554,Medium
+ASTRON,"Ticker
+ASTRON.NS   12.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.03044,High
+GICRE,"Ticker
+GICRE.NS   385.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.03093,High
+IEL,"Ticker
+IEL.NS   17.21
+Name: 2025-04-07 00:00:00, dtype: float64",0.03342,High
+DECCANCE,"Ticker
+DECCANCE.NS   738.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.03262,High
+INDSWFTLTD,"Ticker
+INDSWFTLTD.NS   13.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.04599,High
+ITDCEM,"Ticker
+ITDCEM.NS   553.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.01548,Medium
+VESUVIUS,"Ticker
+VESUVIUS.NS   4128.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.0256,Medium
+SKFINDIA,"Ticker
+SKFINDIA.NS   3730.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.01585,Medium
+WELSPUNLIV,"Ticker
+WELSPUNLIV.NS   118.29
+Name: 2025-04-07 00:00:00, dtype: float64",0.02913,Medium
+FILATFASH,"Ticker
+FILATFASH.NS   0.49
+Name: 2025-04-07 00:00:00, dtype: float64",0.0299,Medium
+SAKSOFT,"Ticker
+SAKSOFT.NS   139.87
+Name: 2025-04-07 00:00:00, dtype: float64",0.02619,Medium
+UNOMINDA,"Ticker
+UNOMINDA.NS   802.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.02647,Medium
+INDIAGLYCO,"Ticker
+INDIAGLYCO.NS   1164.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.03409,High
+HINDNATGLS,"Ticker
+HINDNATGLS.NS   15.89
+Name: 2025-04-07 00:00:00, dtype: float64",0.02918,Medium
+MMFL,"Ticker
+MMFL.NS   322.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02619,Medium
+DIL,"Ticker
+DIL.NS   2.02
+Name: 2025-04-07 00:00:00, dtype: float64",0.04461,High
+HINDUNILVR,"Ticker
+HINDUNILVR.NS   2249.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.01246,Low
+MANALIPETC,"Ticker
+MANALIPETC.NS   51.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02341,Medium
+HISARMETAL,"Ticker
+HISARMETAL.NS   194.97
+Name: 2025-04-07 00:00:00, dtype: float64",0.02859,Medium
+BANSWRAS,"Ticker
+BANSWRAS.NS   125.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.0268,Medium
+MANUGRAPH,"Ticker
+MANUGRAPH.NS   16.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.03974,High
+NORBTEAEXP,"Ticker
+NORBTEAEXP.NS   43.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.02856,Medium
+HFCL,"Ticker
+HFCL.NS   74.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.03058,High
+MASTEK,"Ticker
+MASTEK.NS   1958.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.02717,Medium
+WEALTH,"Ticker
+WEALTH.NS   873.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.03074,High
+IPCALAB,"Ticker
+IPCALAB.NS   1301.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02324,Medium
+MANYAVAR,"Ticker
+MANYAVAR.NS   785.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.02528,Medium
+DIVGIITTS,"Ticker
+DIVGIITTS.NS   422.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02634,Medium
+POKARNA,"Ticker
+POKARNA.NS   753.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.04553,High
+DJML,"Ticker
+DJML.NS   127.53
+Name: 2025-04-07 00:00:00, dtype: float64",0.03091,High
+GTLINFRA,"Ticker
+GTLINFRA.NS   1.46
+Name: 2025-04-07 00:00:00, dtype: float64",0.02858,Medium
+SATIA,"Ticker
+SATIA.NS   67.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.02369,Medium
+BANARBEADS,"Ticker
+BANARBEADS.NS   123.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.03599,High
+TVVISION,"Ticker
+TVVISION.NS   5.18
+Name: 2025-04-07 00:00:00, dtype: float64",0.03278,High
+INGERRAND,"Ticker
+INGERRAND.NS   3381.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.02358,Medium
+NIITMTS,"Ticker
+NIITMTS.NS   359.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.02398,Medium
+VIRINCHI,"Ticker
+VIRINCHI.NS   20.49
+Name: 2025-04-07 00:00:00, dtype: float64",0.02747,Medium
+HCC,"Ticker
+HCC.NS   24.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.03824,High
+ZODIACLOTH,"Ticker
+ZODIACLOTH.NS   89.82
+Name: 2025-04-07 00:00:00, dtype: float64",0.02867,Medium
+ORIENTHOT,"Ticker
+ORIENTHOT.NS   135.64
+Name: 2025-04-07 00:00:00, dtype: float64",0.02953,Medium
+NRAIL,"Ticker
+NRAIL.NS   230.41
+Name: 2025-04-07 00:00:00, dtype: float64",0.02898,Medium
+JTEKTINDIA,"Ticker
+JTEKTINDIA.NS   130.13
+Name: 2025-04-07 00:00:00, dtype: float64",0.02707,Medium
+COMPUSOFT,"Ticker
+COMPUSOFT.NS   16.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.03637,High
+SUNTECK,"Ticker
+SUNTECK.NS   361.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02792,Medium
+PDMJEPAPER,"Ticker
+PDMJEPAPER.NS   97.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.04437,High
+HOVS,"Ticker
+HOVS.NS   44.44
+Name: 2025-04-07 00:00:00, dtype: float64",0.03231,High
+NTPC,"Ticker
+NTPC.NS   349.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.01754,Medium
+TECILCHEM,"Ticker
+TECILCHEM.NS   30.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.03977,High
+JSWSTEEL,"Ticker
+JSWSTEEL.NS   930.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.01548,Medium
+JYOTICNC,"Ticker
+JYOTICNC.NS   964.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03614,High
+MSPL,"Ticker
+MSPL.NS   26.88
+Name: 2025-04-07 00:00:00, dtype: float64",0.03018,High
+GRINDWELL,"Ticker
+GRINDWELL.NS   1549.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02195,Medium
+SOMANYCERA,"Ticker
+SOMANYCERA.NS   411.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.02034,Medium
+PRINCEPIPE,"Ticker
+PRINCEPIPE.NS   239.83
+Name: 2025-04-07 00:00:00, dtype: float64",0.02461,Medium
+RAINBOW,"Ticker
+RAINBOW.NS   1405.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.02305,Medium
+JYOTISTRUC,"Ticker
+JYOTISTRUC.NS   15.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.04249,High
+RAMASTEEL,"Ticker
+RAMASTEEL.NS   9.26
+Name: 2025-04-07 00:00:00, dtype: float64",0.02724,Medium
+TIJARIA,"Ticker
+TIJARIA.NS   5.96
+Name: 2025-04-07 00:00:00, dtype: float64",0.0306,High
+ALOKINDS,"Ticker
+ALOKINDS.NS   14.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02632,Medium
+SHIVAMILLS,"Ticker
+SHIVAMILLS.NS   70.88
+Name: 2025-04-07 00:00:00, dtype: float64",0.03013,High
+INDIGOPNTS,"Ticker
+INDIGOPNTS.NS   930.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.02117,Medium
+APTUS,"Ticker
+APTUS.NS   294.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.01984,Medium
+DIXON,"Ticker
+DIXON.NS   12556.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02966,Medium
+SMARTLINK,"Ticker
+SMARTLINK.NS   123.06
+Name: 2025-04-07 00:00:00, dtype: float64",0.02428,Medium
+HESTERBIO,"Ticker
+HESTERBIO.NS   1656.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.03428,High
+VRLLOG,"Ticker
+VRLLOG.NS   475.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02267,Medium
+JNKINDIA,"Ticker
+JNKINDIA.NS   326.45
+Name: 2025-04-07 00:00:00, dtype: float64",0.03521,High
+DIGISPICE,"Ticker
+DIGISPICE.NS   17.76
+Name: 2025-04-07 00:00:00, dtype: float64",0.03495,High
+SUBEXLTD,"Ticker
+SUBEXLTD.NS   11.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.03346,High
+DSSL,"Ticker
+DSSL.NS   961.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.03164,High
+MAHEPC,"Ticker
+MAHEPC.NS   116.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.0367,High
+COMSYN,"Ticker
+COMSYN.NS   80.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.03224,High
+VARROC,"Ticker
+VARROC.NS   400.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02668,Medium
+JUBLINGREA,"Ticker
+JUBLINGREA.NS   604.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02831,Medium
+360ONE,"Ticker
+360ONE.NS   886.55
+Name: 2025-04-07 00:00:00, dtype: float64",0.02766,Medium
+ARTNIRMAN,"Ticker
+ARTNIRMAN.NS   43.92
+Name: 2025-04-07 00:00:00, dtype: float64",0.03695,High
+RELCHEMQ,"Ticker
+RELCHEMQ.NS   151.23
+Name: 2025-04-07 00:00:00, dtype: float64",0.02495,Medium
+OIL,"Ticker
+OIL.NS   343.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.02667,Medium
+PREMIERPOL,"Ticker
+PREMIERPOL.NS   59.59
+Name: 2025-04-07 00:00:00, dtype: float64",0.04308,High
+MSUMI,"Ticker
+MSUMI.NS   50.25
+Name: 2025-04-07 00:00:00, dtype: float64",0.01553,Medium
+SINCLAIR,"Ticker
+SINCLAIR.NS   84.27
+Name: 2025-04-07 00:00:00, dtype: float64",0.03735,High
+DCMSRIND,"Ticker
+DCMSRIND.NS   164.12
+Name: 2025-04-07 00:00:00, dtype: float64",0.02624,Medium
+CENTRUM,"Ticker
+CENTRUM.NS   23.53
+Name: 2025-04-07 00:00:00, dtype: float64",0.03568,High
+SYNGENE,"Ticker
+SYNGENE.NS   697.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.01814,Medium
+KMEW,"Ticker
+KMEW.NS   1315.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.03228,High
+UNIMECH,"Ticker
+UNIMECH.NS   921.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03257,High
+HONAUT,"Ticker
+HONAUT.NS   32697.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.01719,Medium
+UDS,"Ticker
+UDS.NS   281.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.02827,Medium
+MTNL,"Ticker
+MTNL.NS   41.18
+Name: 2025-04-07 00:00:00, dtype: float64",0.04228,High
+NLCINDIA,"Ticker
+NLCINDIA.NS   228.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.02916,Medium
+MANAKSIA,"Ticker
+MANAKSIA.NS   56.77
+Name: 2025-04-07 00:00:00, dtype: float64",0.02513,Medium
+IDEA,"Ticker
+IDEA.NS   7.36
+Name: 2025-04-07 00:00:00, dtype: float64",0.03742,High
+BALUFORGE,"Ticker
+BALUFORGE.NS   547.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.04642,High
+HMVL,"Ticker
+HMVL.NS   75.73
+Name: 2025-04-07 00:00:00, dtype: float64",0.0298,Medium
+MALLCOM,"Ticker
+MALLCOM.NS   1120.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.02881,Medium
+BOROLTD,"Ticker
+BOROLTD.NS   318.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.03106,High
+BLAL,"Ticker
+BLAL.NS   200.62
+Name: 2025-04-07 00:00:00, dtype: float64",0.02545,Medium
+GARUDA,"Ticker
+GARUDA.NS   99.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.04395,High
+DALMIASUG,"Ticker
+DALMIASUG.NS   356.30
+Name: 2025-04-07 00:00:00, dtype: float64",0.03545,High
+VENUSPIPES,"Ticker
+VENUSPIPES.NS   1144.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.03206,High
+TATAPOWER,"Ticker
+TATAPOWER.NS   354.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.01924,Medium
+IKIO,"Ticker
+IKIO.NS   228.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.03838,High
+GLENMARK,"Ticker
+GLENMARK.NS   1442.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02048,Medium
+KHAICHEM,"Ticker
+KHAICHEM.NS   46.17
+Name: 2025-04-07 00:00:00, dtype: float64",0.03045,High
+PGIL,"Ticker
+PGIL.NS   1001.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.04038,High
+ROLLT,"Ticker
+ROLLT.NS   1.41
+Name: 2025-04-07 00:00:00, dtype: float64",0.0309,High
+AWFIS,"Ticker
+AWFIS.NS   614.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.02647,Medium
+STYRENIX,"Ticker
+STYRENIX.NS   2601.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02223,Medium
+LODHA,"Ticker
+LODHA.NS   1106.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02969,Medium
+SARVESHWAR,"Ticker
+SARVESHWAR.NS   6.61
+Name: 2025-04-07 00:00:00, dtype: float64",0.02723,Medium
+ACEINTEG,"Ticker
+ACEINTEG.NS   24.34
+Name: 2025-04-07 00:00:00, dtype: float64",0.03863,High
+ORCHASP,"Ticker
+ORCHASP.NS   3.27
+Name: 2025-04-07 00:00:00, dtype: float64",0.06574,High
+GRANULES,"Ticker
+GRANULES.NS   436.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.02632,Medium
+SASKEN,"Ticker
+SASKEN.NS   1338.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.03505,High
+DIAMONDYD,"Ticker
+DIAMONDYD.NS   1021.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.02439,Medium
+RAMCOSYS,"Ticker
+RAMCOSYS.NS   342.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.03968,High
+GLOBALVECT,"Ticker
+GLOBALVECT.NS   243.11
+Name: 2025-04-07 00:00:00, dtype: float64",0.02993,Medium
+SSWL,"Ticker
+SSWL.NS   182.53
+Name: 2025-04-07 00:00:00, dtype: float64",0.02192,Medium
+VSSL,"Ticker
+VSSL.NS   193.09
+Name: 2025-04-07 00:00:00, dtype: float64",0.02253,Medium
+THOMASCOOK,"Ticker
+THOMASCOOK.NS   131.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.0318,High
+VLEGOV,"Ticker
+VLEGOV.NS   36.96
+Name: 2025-04-07 00:00:00, dtype: float64",0.03733,High
+NUVOCO,"Ticker
+NUVOCO.NS   299.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.01936,Medium
+IITL,"Ticker
+IITL.NS   202.89
+Name: 2025-04-07 00:00:00, dtype: float64",0.03219,High
+KILITCH,"Ticker
+KILITCH.NS   341.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02423,Medium
+CAPTRUST,"Ticker
+CAPTRUST.NS   84.12
+Name: 2025-04-07 00:00:00, dtype: float64",0.0443,High
+MOSCHIP,"Ticker
+MOSCHIP.NS   139.11
+Name: 2025-04-07 00:00:00, dtype: float64",0.03879,High
+GLOBUSSPR,"Ticker
+GLOBUSSPR.NS   998.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.03334,High
+KOKUYOCMLN,"Ticker
+KOKUYOCMLN.NS   98.26
+Name: 2025-04-07 00:00:00, dtype: float64",0.0255,Medium
+FIRSTCRY,"Ticker
+FIRSTCRY.NS   321.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03774,High
+AKI,"Ticker
+AKI.NS   8.08
+Name: 2025-04-07 00:00:00, dtype: float64",0.03017,High
+EASEMYTRIP,"Ticker
+EASEMYTRIP.NS   11.66
+Name: 2025-04-07 00:00:00, dtype: float64",0.03015,High
+ARVSMART,"Ticker
+ARVSMART.NS   619.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.03073,High
+IXIGO,"Ticker
+IXIGO.NS   138.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.0321,High
+KCPSUGIND,"Ticker
+KCPSUGIND.NS   33.53
+Name: 2025-04-07 00:00:00, dtype: float64",0.0295,Medium
+ICIL,"Ticker
+ICIL.NS   249.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.03892,High
+KRSNAA,"Ticker
+KRSNAA.NS   730.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02606,Medium
+ACCELYA,"Ticker
+ACCELYA.NS   1236.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.01688,Medium
+HMT,"Ticker
+HMT.NS   47.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.02569,Medium
+EDUCOMP,"Ticker
+EDUCOMP.NS   1.68
+Name: 2025-04-07 00:00:00, dtype: float64",0.01948,Medium
+ZAGGLE,"Ticker
+ZAGGLE.NS   307.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.03501,High
+EIMCOELECO,"Ticker
+EIMCOELECO.NS   1468.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03245,High
+SITINET,"Ticker
+SITINET.NS   0.49
+Name: 2025-04-07 00:00:00, dtype: float64",0.01503,Medium
+SERVOTECH,"Ticker
+SERVOTECH.NS   113.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.03198,High
+INTERARCH,"Ticker
+INTERARCH.NS   1550.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.03575,High
+RANEENGINE,"Ticker
+RANEENGINE.NS   261.15
+Name: 2025-04-07 00:00:00, dtype: float64",0.029,Medium
+TASTYBITE,"Ticker
+TASTYBITE.NS   7811.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02321,Medium
+KRITINUT,"Ticker
+KRITINUT.NS   95.93
+Name: 2025-04-07 00:00:00, dtype: float64",0.04215,High
+ISGEC,"Ticker
+ISGEC.NS   992.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.03005,High
+DHANUKA,"Ticker
+DHANUKA.NS   1233.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.0257,Medium
+GUFICBIO,"Ticker
+GUFICBIO.NS   310.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.02862,Medium
+JAGRAN,"Ticker
+JAGRAN.NS   68.71
+Name: 2025-04-07 00:00:00, dtype: float64",0.01472,Low
+NAGAFERT,"Ticker
+NAGAFERT.NS   5.06
+Name: 2025-04-07 00:00:00, dtype: float64",0.03786,High
+JMA,"Ticker
+JMA.NS   73.86
+Name: 2025-04-07 00:00:00, dtype: float64",0.0213,Medium
+HYBRIDFIN,"Ticker
+HYBRIDFIN.NS   11.46
+Name: 2025-04-07 00:00:00, dtype: float64",0.02649,Medium
+NAVNETEDUL,"Ticker
+NAVNETEDUL.NS   134.67
+Name: 2025-04-07 00:00:00, dtype: float64",0.01869,Medium
+JGCHEM,"Ticker
+JGCHEM.NS   314.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.03651,High
+SEAMECLTD,"Ticker
+SEAMECLTD.NS   1020.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02525,Medium
+ZEELEARN,"Ticker
+ZEELEARN.NS   6.00
+Name: 2025-04-07 00:00:00, dtype: float64",0.03745,High
+BHARATFORG,"Ticker
+BHARATFORG.NS   951.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.02015,Medium
+MBLINFRA,"Ticker
+MBLINFRA.NS   44.77
+Name: 2025-04-07 00:00:00, dtype: float64",0.04181,High
+ASHAPURMIN,"Ticker
+ASHAPURMIN.NS   354.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.04534,High
+ZODIAC,"Ticker
+ZODIAC.NS   383.60
+Name: 2025-04-07 00:00:00, dtype: float64",0.03596,High
+AGRITECH,"Ticker
+AGRITECH.NS   130.83
+Name: 2025-04-07 00:00:00, dtype: float64",0.03477,High
+NAVKARCORP,"Ticker
+NAVKARCORP.NS   89.43
+Name: 2025-04-07 00:00:00, dtype: float64",0.0359,High
+SANSTAR,"Ticker
+SANSTAR.NS   86.90
+Name: 2025-04-07 00:00:00, dtype: float64",0.02791,Medium
+AKZOINDIA,"Ticker
+AKZOINDIA.NS   3403.10
+Name: 2025-04-07 00:00:00, dtype: float64",0.02919,Medium
+HARRMALAYA,"Ticker
+HARRMALAYA.NS   192.46
+Name: 2025-04-07 00:00:00, dtype: float64",0.03118,High
+J&KBANK,"Ticker
+J&KBANK.NS   90.66
+Name: 2025-04-07 00:00:00, dtype: float64",0.02337,Medium
+AWL,"Ticker
+AWL.NS   269.75
+Name: 2025-04-07 00:00:00, dtype: float64",0.02999,Medium
+SPIC,"Ticker
+SPIC.NS   80.28
+Name: 2025-04-07 00:00:00, dtype: float64",0.02364,Medium
+KKCL,"Ticker
+KKCL.NS   440.20
+Name: 2025-04-07 00:00:00, dtype: float64",0.02115,Medium
+IRIS,"Ticker
+IRIS.NS   340.50
+Name: 2025-04-07 00:00:00, dtype: float64",0.02467,Medium
+MANORAMA,"Ticker
+MANORAMA.NS   958.65
+Name: 2025-04-07 00:00:00, dtype: float64",0.03781,High
+RVHL,"Ticker
+RVHL.NS   46.84
+Name: 2025-04-07 00:00:00, dtype: float64",0.03349,High
+IFCI,"Ticker
+IFCI.NS   40.42
+Name: 2025-04-07 00:00:00, dtype: float64",0.03532,High
+ASIANPAINT,"Ticker
+ASIANPAINT.NS   2341.35
+Name: 2025-04-07 00:00:00, dtype: float64",0.01448,Low
+ATGL,"Ticker
+ATGL.NS   569.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.03406,High
+ITI,"Ticker
+ITI.NS   234.04
+Name: 2025-04-07 00:00:00, dtype: float64",0.05059,High
+IGPL,"Ticker
+IGPL.NS   423.85
+Name: 2025-04-07 00:00:00, dtype: float64",0.02789,Medium
+BALAXI,"Ticker
+BALAXI.NS   63.68
+Name: 2025-04-07 00:00:00, dtype: float64",0.03756,High
+SIRCA,"Ticker
+SIRCA.NS   242.36
+Name: 2025-04-07 00:00:00, dtype: float64",0.027,Medium
+KAMOPAINTS,"Ticker
+KAMOPAINTS.NS   9.72
+Name: 2025-04-07 00:00:00, dtype: float64",0.03073,High
+SWELECTES,"Ticker
+SWELECTES.NS   548.80
+Name: 2025-04-07 00:00:00, dtype: float64",0.03434,High
+AKG,"Ticker
+AKG.NS   12.84
+Name: 2025-04-07 00:00:00, dtype: float64",0.02649,Medium
+RAJMET,"Ticker
+RAJMET.NS   4.72
+Name: 2025-04-07 00:00:00, dtype: float64",0.02666,Medium
+KSL,"Ticker
+KSL.NS   709.05
+Name: 2025-04-07 00:00:00, dtype: float64",0.0311,High
+UTKARSHBNK,"Ticker
+UTKARSHBNK.NS   22.70
+Name: 2025-04-07 00:00:00, dtype: float64",0.02702,Medium
+SHEMAROO,"Ticker
+SHEMAROO.NS   98.40
+Name: 2025-04-07 00:00:00, dtype: float64",0.03388,High
+PNB,"Ticker
+PNB.NS   94.92
+Name: 2025-04-07 00:00:00, dtype: float64",0.02052,Medium
+KOTHARIPET,"Ticker
+KOTHARIPET.NS   152.66
+Name: 2025-04-07 00:00:00, dtype: float64",0.0342,High
+VISHWARAJ,"Ticker
+VISHWARAJ.NS   8.31
+Name: 2025-04-07 00:00:00, dtype: float64",0.03011,High
+ATALREAL,"Ticker
+ATALREAL.NS   14.95
+Name: 2025-04-07 00:00:00, dtype: float64",0.02839,Medium

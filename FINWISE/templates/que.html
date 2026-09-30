@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questionnaire</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='que.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Fill the form to get Personalized Financial Insights!</h1>
+        <form action="/submit" method="POST">
+            <!-- Income -->
+            <label for="income">What is your total Monthly Income?</label>
+            <input type="number" id="income" name="income" required>
+
+            <!-- Expenses -->
+            <label for="expenses">What is your average Monthly Expenses?</label>
+            <input type="number" id="expenses" name="expenses" required>
+
+            <!-- Investment Choice -->
+            <label>Would you like to invest a portion of your leftover income?</label>
+            <div class="radio-group">
+                <input type="radio" id="invest-yes" name="invest" value="yes" required>
+                <label for="invest-yes">Yes</label>
+                <input type="radio" id="invest-no" name="invest" value="no">
+                <label for="invest-no">No</label>
+            </div>
+
+            <div id="investment-options" class="hidden">
+                <label for="risk">What is your risk preference?</label>
+                <select id="risk" name="risk">
+                    <option value="low">Low</option>
+                    <option value="medium">Medium</option>
+                    <option value="high">High</option>
+                </select>
+
+                <label for="investment-type">What type of investment do you prefer?</label>
+                <select id="investment-type" name="investment_type">
+                    <option value="stocks">Stocks</option>
+                    <option value="mutual_funds">Mutual Funds</option>
+                    <option value="both">Both</option>
+                </select>
+            </div>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <script>
+        // Show/hide investment options based on "Do you want to invest" answer
+        document.querySelectorAll('input[name="invest"]').forEach((radio) => {
+            radio.addEventListener('change', function () {
+                document.getElementById('investment-options').style.display =
+                    this.value === 'yes' ? 'block' : 'none';
+            });
+        });
+    </script>
+</body>
+</html>

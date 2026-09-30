@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Finance news — FinWise{% endblock %}
+{% block content %}
+<section class="page-head"><div><div class="eyebrow">STAY INFORMED</div><h1>Finance & market news</h1><p class="muted">Search finance, stocks, mutual funds, RBI, or any topic.</p></div></section>
+<div class="search-line"><input id="query" value="finance" placeholder="Search news"><button class="btn" onclick="loadNews()">Search</button></div>
+<div id="news" class="news-grid"><div class="empty">Loading news…</div></div>
+<script>
+async function loadNews(){
+  const q=document.getElementById('query').value.trim()||'finance';
+  const box=document.getElementById('news'); box.innerHTML='<div class="empty">Loading…</div>';
+  try{
+    const res=await fetch('/api/news?q='+encodeURIComponent(q)); const data=await res.json();
+    if(!data.articles?.length){box.innerHTML='<div class="empty">No articles found.</div>';return;}
+    box.innerHTML=data.articles.map(a=>`
+      <article class="news-card">
+        <img src="${a.urlToImage || 'https://via.placeholder.com/600x350?text=FinWise+News'}" alt="${escapeHtml(a.title || 'News image')}" onerror="this.onerror=null;this.src='https://via.placeholder.com/600x350?text=FinWise+News';">
+        <div class="news-body"><small>${a.source?.name||'Source'} · ${a.publishedAt?new Date(a.publishedAt).toLocaleString():''}</small>
+        <h3>${escapeHtml(a.title||'Untitled')}</h3><p>${escapeHtml(a.description||'No description available.')}</p>
+        <a href="${a.url}" target="_blank" rel="noopener">Read article →</a></div>
+      </article>`).join('');
+  }catch(e){box.innerHTML='<div class="empty">Could not load news right now.</div>'}
+}
+function escapeHtml(s){return String(s).replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]))}
+loadNews();
+</script>
+{% endblock %}

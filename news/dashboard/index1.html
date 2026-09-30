@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FinWise Dashboard</title>
+  <link rel="stylesheet" href="style1.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <aside class="sidebar">
+      <h1>FinWise</h1>
+      <nav>
+        <ul>
+          <li class="active">Overview</li>
+          <li>Total Income</li>
+        </ul>
+      </nav>
+    </aside>
+
+    <main class="dashboard">
+      <h2>Overview</h2>
+      <div class="input-section">
+        <input type="number" id="incomeInput" placeholder="Enter your salary" />
+        <button onclick="updateIncome()">Update</button>
+      </div>
+
+      <p class="description">Get a quick snapshot of your financial health.</p>
+
+      <div class="cards">
+        <div class="card">
+          <h3>Income</h3>
+          <p id="incomeAmount">0</p>
+        </div>
+        <div class="card">
+          <h3>Savings</h3>
+          <p id="savingsAmount">0</p>
+        </div>
+        <div class="card">
+          <h3>Investments</h3>
+          <p id="investmentsAmount">0</p>
+        </div>
+      </div>
+
+      <h3>Financial Distribution</h3>
+      <canvas id="incomeChart" width="100" height="100"></canvas>
+    </main>
+  </div>
+
+  <script src="script1.js"></script>
+</body>
+</html>
