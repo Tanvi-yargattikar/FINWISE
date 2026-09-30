@@ -1,4 +1,4 @@
-# FinWise — Complete Integrated Project
+# FinWise 
 
 FinWise is a Flask-based personal finance web app that connects:
 - Sign up / sign in / logout
